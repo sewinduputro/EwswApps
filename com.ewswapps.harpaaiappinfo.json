@@ -1,0 +1,189 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "iklanoff",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is HARPA AI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "HARPA AI is a Google Chrome Extension powered by hybrid AI engine which combines ChatGPT and Web Automation",
+      "link": "https://replicateguide.blogspot.com/p/what-is-harpa-ai.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Benefits of HARPA AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "One of the key strengths of HARPA AI is its versatility",
+      "link": "https://replicateguide.blogspot.com/p/benefits-of-harpa-ai.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "How HARPA AI is Designed",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "HARPA works as AI Copilot for Chrome. It understands web page semantics, converts web pages into text documents, and feeds them to OpenAI ChatGPT",
+      "link": "https://replicateguide.blogspot.com/p/how-harpa-ai-is-designed.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Automation Capabilities",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "What makes HARPA AI different from other AI tools like Bing AI for Edge is its emphasis on automation and personalization",
+      "link": "https://replicateguide.blogspot.com/p/automation-capabilities.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "HARPA AI: Automating Web Tasks with a Chrome Extension",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "HARPA AI is a powerful Chrome extension that revolutionizes web task automation",
+      "link": "https://replicateguide.blogspot.com/p/harpa-ai-automating-web-tasks-with.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Save Time and Money with HARPA AI: AI-Powered NoCode RPA Platform",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "HARPA AI is an AI-powered NoCode RPA (Robotic Process Automation) platform that delivers significant time and cost savings by automating tasks on the web",
+      "link": "https://replicateguide.blogspot.com/p/save-time-and-money-with-harpa-ai-ai.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Exploring the AI Capabilities of HARPA: Smart Answers and Web Summaries",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "HARPA AI harnesses the power of artificial intelligence to provide users with smart answers and web summaries",
+      "link": "https://replicateguide.blogspot.com/p/exploring-ai-capabilities-of-harpa.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Automating Price Tracking and Stock Availability with HARPA AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "HARPA AI simplifies the process of price tracking and stock availability monitoring through its automation capabilities",
+      "link": "https://replicateguide.blogspot.com/p/automating-price-tracking-and-stock.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Monitoring Changes with HARPA AI: Detecting Competitor Site Updates",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "Staying ahead of the competition is essential in today's fast-paced digital landscape, and HARPA AI assists users in monitoring changes on competitor websites",
+      "link": "https://replicateguide.blogspot.com/p/monitoring-changes-with-harpa-ai.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Enhance Web Searches with HARPA AI: AI-Powered Browser Extension",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "HARPA AI serves as a powerful browser extension that enhances web searches with its AI-powered capabilities",
+      "link": "https://replicateguide.blogspot.com/p/enhance-web-searches-with-harpa-ai-ai.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Easy Web Task Automation with HARPA AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "HARPA AI simplifies web task automation with its user-friendly interface and intuitive design",
+      "link": "https://replicateguide.blogspot.com/p/easy-web-task-automation-with-harpa-ai.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Guide",
+      "title": "Automatically Monitor Articles and Legislation with HARPA AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "Keeping up with the latest articles and legislation can be a challenging task, especially when there is a vast amount of information available online",
+      "link": "https://replicateguide.blogspot.com/p/automatically-monitor-articles-and.html"
+    },
+	{
+      "id": 13,
+      "name_category": "Guide",
+      "title": "Effortlessly Extract Structural Data with HARPA AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "Extracting structured data from web pages can be a time-consuming and manual process",
+      "link": "https://replicateguide.blogspot.com/p/effortlessly-extract-structural-data.html"
+    },
+	{
+      "id": 14,
+      "name_category": "Guide",
+      "title": "Unveiling the Potential of AI Extensions for Web Automation: HARPA AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "HARPA AI represents the potential of AI extensions in revolutionizing web automation",
+      "link": "https://replicateguide.blogspot.com/p/unveiling-potential-of-ai-extensions.html"
+    },
+	{
+      "id": 15,
+      "name_category": "Guide",
+      "title": "Setting up HARPA AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-Kq-GtA1zml0PA4di5j71I3Hs1JSxC5CQlEo0f8JYSZGIHj-FTOADMafd_M4J5dIh04nTU0udxAQWAuG5YcRN79PYHbVgZw5tSdEAFU6OBswB1VzO5K3jIYhsIZwfXzHt8UdN5wONvhlMuSas_592vkaCNagTfh68Ere0ZP2O6hKyIj5sItxB1Mq/w400-h400/icon.png",
+      "description": "ARPA AI relies on ChatGPT to provide generative AI features",
+      "link": "https://replicateguide.blogspot.com/p/setting-up-harpa-ai.html"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "642369247811352",
+        "banner": "642369247811352_642750281106582",
+        "mrec": "642369247811352_642750384439905",
+        "inter": "642369247811352_642750317773245",
+        "native_ad": "642369247811352_642750591106551",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "big_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "What is FlixHQ?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "FlixHQ is a free streaming service to watch new movies, web series, and trendy TV shows anywhere on any device",
+      "link": "https://replicateguide.blogspot.com/p/what-is-flixhq.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Information",
+      "title": "What are the advantages of FlixHQ?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "Many advantages of FlixHQ",
+      "link": "https://replicateguide.blogspot.com/p/the-advantages-of-flixhq.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Information",
+      "title": "What are the limitations of FlixHQ?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "Limitations of FlixHQ must you know",
+      "link": "https://replicateguide.blogspot.com/p/limitations-of-flixhq.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Information",
+      "title": "Features of FlixHQ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "Many Features of FlixHQ",
+      "link": "https://replicateguide.blogspot.com/p/features-of-flixhq.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Information",
+      "title": "FlixHQ: The New Era of Free Streaming Services",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "The rise of free streaming services has brought a new player into the game: FlixHQ",
+      "link": "https://replicateguide.blogspot.com/p/flixhq-new-era-of-free-streaming.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Information",
+      "title": "Exploring FlixHQ: A Comprehensive Review of the Free Streaming Platform",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "FlixHQ is a free streaming platform that has gained attention for its user-friendly interface and extensive content library",
+      "link": "https://replicateguide.blogspot.com/p/exploring-flixhq-comprehensive-review.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Information",
+      "title": "FlixHQ vs. Traditional Streaming Services: Which One Should You Choose?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "When it comes to choosing a streaming service, users often find themselves torn between traditional paid platforms and emerging free services like FlixHQ",
+      "link": "https://replicateguide.blogspot.com/p/flixhq-vs-traditional-streaming.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Information",
+      "title": "Unlimited Entertainment at Your Fingertips: A Closer Look at FlixHQ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "FlixHQ brings unlimited entertainment right to your fingertips",
+      "link": "https://replicateguide.blogspot.com/p/unlimited-entertainment-at-your.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Information",
+      "title": "FlixHQ's Seamless Navigation: Making Streaming Effortless",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "FlixHQ prides itself on providing a seamless navigation experience for its users.",
+      "link": "https://replicateguide.blogspot.com/p/flixhqs-seamless-navigation-making.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Information",
+      "title": "Quality Matters: How FlixHQ Delivers an Enjoyable Viewing Experience",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "FlixHQ places a strong emphasis on delivering a high-quality viewing experience. The platform ensures that users can stream their favorite content in high definition, providing sharp visuals and immersive audio. By prioritizing video and audio quality, FlixHQ aims to create an enjoyable and engaging environment for viewers. Whether you're watching on a large screen or a mobile device, FlixHQ optimizes the streaming quality to provide a satisfying experience. By investing in the technical aspects of streaming, FlixHQ aims to deliver a visually stunning and immersive entertainment experience to its users.",
+      "link": "https://replicateguide.blogspot.com/p/quality-matters-how-flixhq-delivers.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Information",
+      "title": "Customization and Convenience: Personalizing Your FlixHQ Streaming Journey",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "FlixHQ offers customization and convenience features to enhance the streaming journey for its users",
+      "link": "https://replicateguide.blogspot.com/p/customization-and-convenience.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Information",
+      "title": "Unlocking the Full Potential: Exploring FlixHQ's Hidden Gems",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "FlixHQ is not just about popular mainstream content; it also provides a platform to discover hidden gems",
+      "link": "https://replicateguide.blogspot.com/p/unlocking-full-potential-exploring.html"
+    },
+	{
+      "id": 13,
+      "name_category": "Information",
+      "title": "The Future of Free Streaming: Innovations and Upgrades in FlixHQ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvm70dzvgWccvsbyErZDjKOwa4FgesLdbzoQbKpIg-TmA11JXt9GuUHsCi2toTNvwZ5zMip_W6H2zgFWNBX-IsNzMN2Hpzi38Zc3btyvK75HovlmAYO6_1geRTlOFqer9foaMFe27Z1KJgV9Dv-e8yjgIeW42OxeGc5hXiOIUA_wduBorORSFVRKn/w320-h320/unnamed%20(3).webp",
+      "description": "As free streaming platforms continue to evolve, FlixHQ is poised to shape the future of streaming",
+      "link": "https://replicateguide.blogspot.com/p/the-future-of-free-streaming.html"
+    }
+  ]
+}

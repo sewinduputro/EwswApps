@@ -1,0 +1,173 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "off",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "134474676314722",
+        "banner": "134474676314722_134475136314676",
+        "mrec": "134474676314722_134475386314651",
+        "inter": "134474676314722_134475206314669",
+        "native_ad": "134474676314722_134475446314645",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "big_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Workflow",
+      "title": "What is Portrait Vana?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "Vana’s “Portrait” is a powerful AI tool that can create self-portraits of users in an infinite variety of styles",
+      "link": "https://replicateguide.blogspot.com/p/what-is-portrait-vana.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Workflow",
+      "title": "How to Get Your Vana Portraits",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "To get your own Vana portraits, you need to follow a number of steps which we have split into two sections",
+      "link": "https://replicateguide.blogspot.com/p/how-to-get-your-vana-portraits.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Workflow",
+      "title": "Turn Your Portraits Into AI Art With Vana",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "Before photography was invented, portraits had to be painted by an artist, and the process could take months or even years",
+      "link": "https://replicateguide.blogspot.com/p/turn-your-portraits-into-ai-art-with.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Workflow",
+      "title": "Exploring Self-Creativity with AI Portrait Vana",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "In today's digital age, self-expression has taken on new forms, and AI Portrait Vana is at the forefront of this creative revolution",
+      "link": "https://replicateguide.blogspot.com/p/exploring-self-creativity-with-ai.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Workflow",
+      "title": "Expressing Your Unique Beauty with AI Portrait Vana",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "In a world that celebrates diversity and individuality, AI Portrait Vana offers a remarkable platform for expressing your unique beauty",
+      "link": "https://replicateguide.blogspot.com/p/expressing-your-unique-beauty-with-ai.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Workflow",
+      "title": "Blending Art and Technology with AI Portrait Vana",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "The intersection of art and technology has always led to groundbreaking innovations, and AI Portrait Vana stands as a shining example of this fusion",
+      "link": "https://replicateguide.blogspot.com/p/blending-art-and-technology-with-ai.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Workflow",
+      "title": "Sharpening Your Artistic Talents with AI Portrait Vana",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "AI Portrait Vana is not just a tool for creating stunning self-portraits; it's also a platform for honing your artistic talents",
+      "link": "https://replicateguide.blogspot.com/p/sharpening-your-artistic-talents-with.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Workflow",
+      "title": "Creating Limitless Self-Portraits with AI Portrait Vana",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "Gone are the days of being limited to a single self-portrait style or technique",
+      "link": "https://replicateguide.blogspot.com/p/creating-limitless-self-portraits-with.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Workflow",
+      "title": "Discovering New Artistic Styles with AI Portrait Vana",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "AI Portrait Vana is a gateway to discovering new artistic styles and expanding your artistic repertoire",
+      "link": "https://replicateguide.blogspot.com/p/discovering-new-artistic-styles-with-ai.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Workflow",
+      "title": "Inspiring Your Creations with AI Portrait Vana",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "Creativity thrives on inspiration, and AI Portrait Vana is a constant source of creative inspiration.",
+      "link": "https://replicateguide.blogspot.com/p/inspiring-your-creations-with-ai.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Workflow",
+      "title": "Joining the Creative Community of AI Portrait Vana",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "AI Portrait Vana not only provides a platform for self-expression but also fosters a vibrant community of artists, creators, and enthusiasts",
+      "link": "https://replicateguide.blogspot.com/p/joining-creative-community-of-ai.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Workflow",
+      "title": "Pushing the Boundaries of Creativity with AI Portrait Vana",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "Creativity knows no bounds, and AI Portrait Vana encourages you to push the boundaries of your artistic imagination",
+      "link": "https://replicateguide.blogspot.com/p/pushing-boundaries-of-creativity-with.html"
+    },
+	{
+      "id": 13,
+      "name_category": "Workflow",
+      "title": "Embracing Self-Discovery through AI Portrait Vana",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqiNcgKNNjwI4KT-1MTa0u47G2PMHJp7ZBcJF5k5lOhuKVuUp8sLazy4EWVorBBbfaZOCso7xhgMEgKuqUBcufjY0UCX7snt8dhfAgF0tzlBl34vrVzGDBsvTzubDM4b0N4vh_IssBFIEtHtstDqkbIXOqTSMQCX4RWbpbKX349PGyItdy2liz5RXu/w400-h400/icon.png",
+      "description": "Self-portraiture has long been a means of self-discovery and introspection, and AI Portrait Vana amplifies this transformative process",
+      "link": "https://replicateguide.blogspot.com/p/embracing-self-discovery-through-ai.html"
+    }
+  ]
+}

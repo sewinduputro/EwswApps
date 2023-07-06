@@ -1,0 +1,158 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "937510027327941",
+        "banner": "937510027327941_937510630661214",
+        "mrec": "off",
+        "inter": "937510027327941_937510660661211",
+        "native_ad": "937510027327941_937510803994530",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is GFPGAN?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp-h3TQ9IQZD8C2R8s7ieKVxlyOoMs6YGG0nzu1jkM5hNKbi5FxDqOFKJw-NfKFEreUeKFagoGiAs2izjssCzqcouT5gGn9J-T7QY4g-qNfC45A8rD-R955fCqnP0FvtEiVtAobfPZsi7IVS41IoBF2_izC7NanMuXWAxpPGe5S7aSVVzUdqt0IsTxG80/w400-h400/icon.png",
+      "description": "GFP-GAN is a blind face restoration generative adversarial network that makes use of a generative facial prior (GFP)",
+      "link": "https://replicateguide.blogspot.com/p/what-is-gfpgan.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "How to Improve Image Resolution With GFPGAN",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp-h3TQ9IQZD8C2R8s7ieKVxlyOoMs6YGG0nzu1jkM5hNKbi5FxDqOFKJw-NfKFEreUeKFagoGiAs2izjssCzqcouT5gGn9J-T7QY4g-qNfC45A8rD-R955fCqnP0FvtEiVtAobfPZsi7IVS41IoBF2_izC7NanMuXWAxpPGe5S7aSVVzUdqt0IsTxG80/w400-h400/icon.png",
+      "description": "The steps to upscale and restore your images with the GFPGAN AI are pretty straightforward",
+      "link": "https://replicateguide.blogspot.com/p/how-to-improve-image-resolution-with.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "The GFPGAN AI Limitations",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp-h3TQ9IQZD8C2R8s7ieKVxlyOoMs6YGG0nzu1jkM5hNKbi5FxDqOFKJw-NfKFEreUeKFagoGiAs2izjssCzqcouT5gGn9J-T7QY4g-qNfC45A8rD-R955fCqnP0FvtEiVtAobfPZsi7IVS41IoBF2_izC7NanMuXWAxpPGe5S7aSVVzUdqt0IsTxG80/w400-h400/icon.png",
+      "description": "Although the image restoration tools work like a miracle, there are a few limitations that even AI can't solve",
+      "link": "https://replicateguide.blogspot.com/p/the-gfpgan-ai-limitations.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "The Differences in the GFPGAN Versions",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp-h3TQ9IQZD8C2R8s7ieKVxlyOoMs6YGG0nzu1jkM5hNKbi5FxDqOFKJw-NfKFEreUeKFagoGiAs2izjssCzqcouT5gGn9J-T7QY4g-qNfC45A8rD-R955fCqnP0FvtEiVtAobfPZsi7IVS41IoBF2_izC7NanMuXWAxpPGe5S7aSVVzUdqt0IsTxG80/w400-h400/icon.png",
+      "description": "The GFPGAN algorithm has various versions you can use",
+      "link": "https://replicateguide.blogspot.com/p/the-differences-in-gfpgan-versions.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Effortlessly Upscale and Restore Your Low-Quality Images",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp-h3TQ9IQZD8C2R8s7ieKVxlyOoMs6YGG0nzu1jkM5hNKbi5FxDqOFKJw-NfKFEreUeKFagoGiAs2izjssCzqcouT5gGn9J-T7QY4g-qNfC45A8rD-R955fCqnP0FvtEiVtAobfPZsi7IVS41IoBF2_izC7NanMuXWAxpPGe5S7aSVVzUdqt0IsTxG80/w400-h400/icon.png",
+      "description": "GFPGAN is a free-to-use AI that converts low-quality images to high-resolution",
+      "link": "https://replicateguide.blogspot.com/p/effortlessly-upscale-and-restore-your.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "GFPGAN: The Unstoppable Force Revolutionizing Face Segmentation!",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp-h3TQ9IQZD8C2R8s7ieKVxlyOoMs6YGG0nzu1jkM5hNKbi5FxDqOFKJw-NfKFEreUeKFagoGiAs2izjssCzqcouT5gGn9J-T7QY4g-qNfC45A8rD-R955fCqnP0FvtEiVtAobfPZsi7IVS41IoBF2_izC7NanMuXWAxpPGe5S7aSVVzUdqt0IsTxG80/w400-h400/icon.png",
+      "description": "Prepare to witness the unstoppable force that is GFPGAN, a groundbreaking technology that is revolutionizing the field of face segmentation",
+      "link": "https://replicateguide.blogspot.com/p/gfpgan-unstoppable-force.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Unleashing the Power of GFPGAN: The Ultimate Breakthrough in Face Restoration!",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp-h3TQ9IQZD8C2R8s7ieKVxlyOoMs6YGG0nzu1jkM5hNKbi5FxDqOFKJw-NfKFEreUeKFagoGiAs2izjssCzqcouT5gGn9J-T7QY4g-qNfC45A8rD-R955fCqnP0FvtEiVtAobfPZsi7IVS41IoBF2_izC7NanMuXWAxpPGe5S7aSVVzUdqt0IsTxG80/w400-h400/icon.png",
+      "description": "Prepare to be amazed as GFPGAN unleashes its power in face restoration, marking a monumental breakthrough in the field",
+      "link": "https://replicateguide.blogspot.com/p/unleashing-power-of-gfpgan-ultimate.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "GFPGAN: The Astonishing High-Resolution Face Segmentation Wonder!",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp-h3TQ9IQZD8C2R8s7ieKVxlyOoMs6YGG0nzu1jkM5hNKbi5FxDqOFKJw-NfKFEreUeKFagoGiAs2izjssCzqcouT5gGn9J-T7QY4g-qNfC45A8rD-R955fCqnP0FvtEiVtAobfPZsi7IVS41IoBF2_izC7NanMuXWAxpPGe5S7aSVVzUdqt0IsTxG80/w400-h400/icon.png",
+      "description": "Prepare to be astonished by the incredible capabilities of GFPGAN in high-resolution face segmentation",
+      "link": "https://replicateguide.blogspot.com/p/gfpgan-astonishing-high-resolution-face.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Prepare to be Amazed: GFPGAN's Mind-Blowing Realistic Face Parsing!",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp-h3TQ9IQZD8C2R8s7ieKVxlyOoMs6YGG0nzu1jkM5hNKbi5FxDqOFKJw-NfKFEreUeKFagoGiAs2izjssCzqcouT5gGn9J-T7QY4g-qNfC45A8rD-R955fCqnP0FvtEiVtAobfPZsi7IVS41IoBF2_izC7NanMuXWAxpPGe5S7aSVVzUdqt0IsTxG80/w400-h400/icon.png",
+      "description": "Get ready to have your mind blown by GFPGAN's mind-blowing capabilities in realistic face parsing",
+      "link": "https://replicateguide.blogspot.com/p/prepare-to-be-amazed-gfpgans-mind.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "GFPGAN: The Extraordinary Fine-Grained Face Segmentation Marvel Revealed!",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp-h3TQ9IQZD8C2R8s7ieKVxlyOoMs6YGG0nzu1jkM5hNKbi5FxDqOFKJw-NfKFEreUeKFagoGiAs2izjssCzqcouT5gGn9J-T7QY4g-qNfC45A8rD-R955fCqnP0FvtEiVtAobfPZsi7IVS41IoBF2_izC7NanMuXWAxpPGe5S7aSVVzUdqt0IsTxG80/w400-h400/icon.png",
+      "description": "Prepare to witness the extraordinary marvel of GFPGAN's fine-grained face segmentation capabilities",
+      "link": "https://replicateguide.blogspot.com/p/gfpgan-extraordinary-fine-grained-face.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Unlocking the Future: GFPGAN's Jaw-Dropping Facial Attribute Recognition!",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp-h3TQ9IQZD8C2R8s7ieKVxlyOoMs6YGG0nzu1jkM5hNKbi5FxDqOFKJw-NfKFEreUeKFagoGiAs2izjssCzqcouT5gGn9J-T7QY4g-qNfC45A8rD-R955fCqnP0FvtEiVtAobfPZsi7IVS41IoBF2_izC7NanMuXWAxpPGe5S7aSVVzUdqt0IsTxG80/w400-h400/icon.png",
+      "description": "Get ready to unlock the future with GFPGAN-based face segmentation, as it promises to reshape the landscape of facial attribute recognition",
+      "link": "https://replicateguide.blogspot.com/p/unlocking-future-gfpgans-jaw-dropping.html"
+    }
+  ]
+}

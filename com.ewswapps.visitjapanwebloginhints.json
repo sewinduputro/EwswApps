@@ -1,0 +1,173 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "iklanoff",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+     {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is Visit Japan Web?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "Visit Japan Web is a Fast Track Registration portal for visitors to complete most of the immigration paperwork before their arrival",
+      "link": "https://latoquiz.blogspot.com/p/what-is-visit-japan-web.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Whats Diference Between Mysos and Visit Japan Web",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "MySOS is the predecessor of Visit Japan Web",
+      "link": "https://latoquiz.blogspot.com/p/whats-difference-between-mysos-app-and.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "User Registration of Visit Japan Web",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "Visitors will first need to register an account with Visit Japan Web email address and password creation",
+      "link": "https://latoquiz.blogspot.com/p/user-registration-of-visit-japan-web.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Trip Details on Visit Japan Web",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "Please click on Registering Planned Entry/Return and click New Registration",
+      "link": "https://latoquiz.blogspot.com/p/trip-details-on-visit-japan-web.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Quarantine Procedures Fast Track",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "Go to Japan Entry/Return Procedure Screen and click Quarantine Procedures Fast Track",
+      "link": "https://latoquiz.blogspot.com/p/quarantine-procedures-fast-track-for.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Imigration",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "Please go to Japan entry/return procedure and scroll to Preparation for Immigration Clearance",
+      "link": "https://latoquiz.blogspot.com/p/immigration.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Customs",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "Please go to Japan entry/return procedure and scroll to Preparation for customs clearance",
+      "link": "https://latoquiz.blogspot.com/p/customs.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Other Information",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "There is one more section titled After entering Japan during the stay in Japan with 2 sub-sections",
+      "link": "https://latoquiz.blogspot.com/p/other-information-about-visit-japan-web.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Frequently Asked Questions",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "The Most Frequently Asked Questions",
+      "link": "https://latoquiz.blogspot.com/p/frequently-asked-questions.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Tips",
+      "title": "Top 10 Place in Japan",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "Best Places to Visit in Japan & Things to Do",
+      "link": "https://latoquiz.blogspot.com/p/10-best-places-to-visit-in-japan.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Tips",
+      "title": "How long do you need in Japan",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "There is so much to see, we have spent months in the country and still have a long bucket list",
+      "link": "https://latoquiz.blogspot.com/p/travel-budget-counter.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Tips",
+      "title": "Crucial Japan Travel Tips",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "20+ crucial Japan travel tips to know before you go",
+      "link": "https://latoquiz.blogspot.com/p/crucial-japan-travel-tips.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Tips",
+      "title": "10 Best 5 Star Hotels",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqyN-sVZdaYrpCLm7QpV0zfmvx0vlYk-EuWiuWRp61UyahBDyjqDsIt3aIc8BFbAWBZH2hn4qkqwNxlOC_Sovn9WWTPsL100QJuKv66_HvaOc_nLomu-6V44NVAFFectC3t7cWheDIk5M99StiUyTaHnXoDfxcig7Y5YyZ9lcC4-hEwDTorS6eqsO6g/w400-h400/icon.png",
+      "description": "List of Best Luxury Hotels in Japan",
+      "link": "https://latoquiz.blogspot.com/p/10-best-5-star-hotels.html"
+    }
+  ]
+}

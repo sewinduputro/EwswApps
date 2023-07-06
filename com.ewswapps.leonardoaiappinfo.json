@@ -1,0 +1,167 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "min_time": 120,
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "286146103831494",
+        "banner": "286146103831494_286147233831381",
+        "mrec": "off",
+        "inter": "286146103831494_286147260498045",
+        "native_ad": "286146103831494_286147340498037",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+	{
+      "id": 1,
+      "name_category": "Guide",
+      "title": "Introduction",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "In the fast-paced world of game development, creativity and efficiency are paramount",
+      "link": "https://replicateguide.blogspot.com/p/introduction_4.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "How Leonardo AI Works",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "Leonardo AI utilizes state-of-the-art AI algorithms to generate high-quality game assets",
+      "link": "https://replicateguide.blogspot.com/p/how-leonardo-ai-works.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Exploring the Leonardo AI Interface",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "The user interface of Leonardo AI is designed to be intuitive and artist-friendly",
+      "link": "https://replicateguide.blogspot.com/p/exploring-leonardo-ai-interface.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Leonardo AI: Beyond Asset Generation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "Leonardo AI goes beyond being a mere tool for generating game assets",
+      "link": "https://replicateguide.blogspot.com/p/leonardo-ai-beyond-asset-generation.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "How to use Leonardo AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "To experience the power of Leonardo AI, users can follow these simple steps",
+      "link": "https://replicateguide.blogspot.com/p/how-to-use-leonardo-ai.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Transforming Game Development with Leonardo AI: Stunning AI-Generated Assets",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "Game development is constantly evolving, and Leonardo AI is at the forefront of this revolution",
+      "link": "https://replicateguide.blogspot.com/p/transforming-game-development-with.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Unleashing Creativity: Exploring Leonardo AI's Game Asset Generation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "Leonardo AI is not just a tool for generating game assets; it is a catalyst for unleashing creativity in game development",
+      "link": "https://replicateguide.blogspot.com/p/unleashing-creativity-exploring.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Accelerating Workflows: The Efficiency of Leonardo AI in Game Development",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "Time is of the essence in game development, and Leonardo AI excels in accelerating workflows by streamlining the asset creation process",
+      "link": "https://replicateguide.blogspot.com/p/accelerating-workflows-efficiency-of.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "From Concept to Reality: Creating Production-Ready Assets with Leonardo AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "Bringing a game concept to life requires the transformation of ideas into production-ready assets, and Leonardo AI excels in this aspect",
+      "link": "https://replicateguide.blogspot.com/p/from-concept-to-reality-creating.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Empowering Artists: The Artist-Friendly Interface of Leonardo AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "Leonardo AI not only caters to the needs of game developers but also places a strong emphasis on empowering artists",
+      "link": "https://replicateguide.blogspot.com/p/empowering-artists-artist-friendly.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Democratizing Asset Creation: Breaking Barriers with Leonardo AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "Leonardo AI is not only revolutionizing game asset creation but also democratizing the process",
+      "link": "https://replicateguide.blogspot.com/p/democratizing-asset-creation-breaking.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Guide",
+      "title": "Exclusive Early Access: Unlocking Innovation with Leonardo AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv47S2Zw4-ZQrm2AsUqAWJ_g4x0ZMwbWVZCklqh6n5LNisEWPhXdPWo8uYV2v-hl_qUWaNN5-ocz2OB2qJfumOeIaPOxwRHJqHBBew3QnKzoP7ak0xLlebxqsekA5Bcsf04Bqkb5fJ91NnIOdxhsIHWE9MTA-vETbwfEtXCZ1oyLV5cl1MrErOS4o/w400-h400/icon.png",
+      "description": "Leonardo AI is a cutting-edge platform that is continuously pushing the boundaries of game asset creation",
+      "link": "https://replicateguide.blogspot.com/p/exclusive-early-access-unlocking.html"
+    }
+  ]
+}

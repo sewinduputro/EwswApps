@@ -1,0 +1,149 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "iklanoff",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "big_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is Mage Space?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8cMam74Cd-85deLwjBY6Q2lwJRmp2Win0slLtElG5iJmAMKu2ozAUHqQsKaDQbOybsvf-KO2T3s7BF4lLg0hkIkut6EeUG-djG-cUREraQRTLdOC20xg6cP904kjp1hEN9fYFqT8jh2mf_OwDrOrG9rsrDnaIDH1CmjH0aWPbScTT7kZrB4m4wZZi/w400-h400/icon.png",
+      "description": "Mage.Space is a free online AI image-generating program that allows users to quickly create detailed images",
+      "link": "https://replicateguide.blogspot.com/p/what-is-mage-space.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Mage Space Tutorial",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8cMam74Cd-85deLwjBY6Q2lwJRmp2Win0slLtElG5iJmAMKu2ozAUHqQsKaDQbOybsvf-KO2T3s7BF4lLg0hkIkut6EeUG-djG-cUREraQRTLdOC20xg6cP904kjp1hEN9fYFqT8jh2mf_OwDrOrG9rsrDnaIDH1CmjH0aWPbScTT7kZrB4m4wZZi/w400-h400/icon.png",
+      "description": "To begin with, the Mage.Space is free to use, of course with some limitations, and you don’t even have to register an account in order to take advantage of it",
+      "link": "https://replicateguide.blogspot.com/p/mage-space-tutorial.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Mage Art Generator: Pricing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8cMam74Cd-85deLwjBY6Q2lwJRmp2Win0slLtElG5iJmAMKu2ozAUHqQsKaDQbOybsvf-KO2T3s7BF4lLg0hkIkut6EeUG-djG-cUREraQRTLdOC20xg6cP904kjp1hEN9fYFqT8jh2mf_OwDrOrG9rsrDnaIDH1CmjH0aWPbScTT7kZrB4m4wZZi/w400-h400/icon.png",
+      "description": "But before we take a look at the tool itself, let’s talk about its pricing model",
+      "link": "https://replicateguide.blogspot.com/p/mage-art-generator-pricing.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Mage AI Art Generator: Feature",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8cMam74Cd-85deLwjBY6Q2lwJRmp2Win0slLtElG5iJmAMKu2ozAUHqQsKaDQbOybsvf-KO2T3s7BF4lLg0hkIkut6EeUG-djG-cUREraQRTLdOC20xg6cP904kjp1hEN9fYFqT8jh2mf_OwDrOrG9rsrDnaIDH1CmjH0aWPbScTT7kZrB4m4wZZi/w400-h400/icon.png",
+      "description": "When you land on the homepage, the first thing that’ll hit you is the prompt bar – it’s like a big welcome mat for your text prompt!",
+      "link": "https://replicateguide.blogspot.com/p/mage-ai-art-generator-feature.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "What is Mage.Space and how does it work?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8cMam74Cd-85deLwjBY6Q2lwJRmp2Win0slLtElG5iJmAMKu2ozAUHqQsKaDQbOybsvf-KO2T3s7BF4lLg0hkIkut6EeUG-djG-cUREraQRTLdOC20xg6cP904kjp1hEN9fYFqT8jh2mf_OwDrOrG9rsrDnaIDH1CmjH0aWPbScTT7kZrB4m4wZZi/w400-h400/icon.png",
+      "description": "Mage.Space is a web-based AI art generator that uses a neural network to create unique and innovative artwork",
+      "link": "https://replicateguide.blogspot.com/p/what-is-magespace-and-how-does-it-work.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Advantages of using Mage.Space",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8cMam74Cd-85deLwjBY6Q2lwJRmp2Win0slLtElG5iJmAMKu2ozAUHqQsKaDQbOybsvf-KO2T3s7BF4lLg0hkIkut6EeUG-djG-cUREraQRTLdOC20xg6cP904kjp1hEN9fYFqT8jh2mf_OwDrOrG9rsrDnaIDH1CmjH0aWPbScTT7kZrB4m4wZZi/w400-h400/icon.png",
+      "description": "Mage.Space offers a wide variety of advantages for those looking to create professional-quality art with the help of artificial intelligence",
+      "link": "https://replicateguide.blogspot.com/p/advantages-of-using-magespace.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Generate Unique and Innovative Art",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8cMam74Cd-85deLwjBY6Q2lwJRmp2Win0slLtElG5iJmAMKu2ozAUHqQsKaDQbOybsvf-KO2T3s7BF4lLg0hkIkut6EeUG-djG-cUREraQRTLdOC20xg6cP904kjp1hEN9fYFqT8jh2mf_OwDrOrG9rsrDnaIDH1CmjH0aWPbScTT7kZrB4m4wZZi/w400-h400/icon.png",
+      "description": "With Mage.Space, users can generate unique and innovative art in just a few steps and with minimal effort.",
+      "link": "https://replicateguide.blogspot.com/p/generate-unique-and-innovative-art.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Disadvantages of Mage.Space",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8cMam74Cd-85deLwjBY6Q2lwJRmp2Win0slLtElG5iJmAMKu2ozAUHqQsKaDQbOybsvf-KO2T3s7BF4lLg0hkIkut6EeUG-djG-cUREraQRTLdOC20xg6cP904kjp1hEN9fYFqT8jh2mf_OwDrOrG9rsrDnaIDH1CmjH0aWPbScTT7kZrB4m4wZZi/w400-h400/icon.png",
+      "description": "While Mage.Space offers a number of advantages, there are also some disadvantages that you should be aware of before using the platform",
+      "link": "https://replicateguide.blogspot.com/p/disadvantages-of-magespace.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8cMam74Cd-85deLwjBY6Q2lwJRmp2Win0slLtElG5iJmAMKu2ozAUHqQsKaDQbOybsvf-KO2T3s7BF4lLg0hkIkut6EeUG-djG-cUREraQRTLdOC20xg6cP904kjp1hEN9fYFqT8jh2mf_OwDrOrG9rsrDnaIDH1CmjH0aWPbScTT7kZrB4m4wZZi/w400-h400/icon.png",
+      "description": "Mage.Space has made artificial intelligence simple – their AI generator uses the latest Stable Diffusion model at no extra cost!",
+      "link": "https://replicateguide.blogspot.com/p/conclusion_88.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "FAQ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8cMam74Cd-85deLwjBY6Q2lwJRmp2Win0slLtElG5iJmAMKu2ozAUHqQsKaDQbOybsvf-KO2T3s7BF4lLg0hkIkut6EeUG-djG-cUREraQRTLdOC20xg6cP904kjp1hEN9fYFqT8jh2mf_OwDrOrG9rsrDnaIDH1CmjH0aWPbScTT7kZrB4m4wZZi/w400-h400/icon.png",
+      "description": "Frequently Asked Questions Mage Space",
+      "link": "https://replicateguide.blogspot.com/p/faq_76.html"
+    }
+  ]
+}

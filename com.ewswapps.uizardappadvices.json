@@ -1,0 +1,171 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "min_time": 120,
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "945956290050526",
+        "banner": "945956290050526_945956673383821",
+        "mrec": "off",
+        "inter": "945956290050526_945956703383818",
+        "native_ad": "945956290050526_945956790050476",
+        "open_ad": "-",
+        "splash_ad": false
+      },
+      {
+        "name": "admob",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-4741150800258294~9484370408",
+        "banner": "ca-app-pub-4741150800258294/8278513211",
+        "mrec": "-",
+        "inter": "ca-app-pub-4741150800258294/6030009420",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is Uizard?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo9pjEkaHsXUAZVTIHrYxh1_ywWGWvH7xGt67UdZouTHcc0AIC4UJ0sDtVUnWi5j1z2hFjhV35q1GHjES7qkR6gvEPxT37wI2Lxg8feBeGVo2er6N4mJrgOrWnY6AV1ru8Y5DucsKtzvM-2zFOj0PNhDAUVRxEcPqsxCl6wTdOuYhF0HB4P4f2cX2/w400-h400/icon.png",
+      "description": "Uizard is a powerful AI-powered UI design tool that makes mobile apps, websites, and UIs design easy and fast.",
+      "link": "https://replicateguide.blogspot.com/p/what-is-uizard.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Introducing Uizard: The Future of Design",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo9pjEkaHsXUAZVTIHrYxh1_ywWGWvH7xGt67UdZouTHcc0AIC4UJ0sDtVUnWi5j1z2hFjhV35q1GHjES7qkR6gvEPxT37wI2Lxg8feBeGVo2er6N4mJrgOrWnY6AV1ru8Y5DucsKtzvM-2zFOj0PNhDAUVRxEcPqsxCl6wTdOuYhF0HB4P4f2cX2/w400-h400/icon.png",
+      "description": "Uizard is an advanced prototyping tool that simplifies the process of turning wireframes into high-fidelity prototypes with lightning speed",
+      "link": "https://replicateguide.blogspot.com/p/introducing-uizard-future-of-design.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Why Should I Use Uizard?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo9pjEkaHsXUAZVTIHrYxh1_ywWGWvH7xGt67UdZouTHcc0AIC4UJ0sDtVUnWi5j1z2hFjhV35q1GHjES7qkR6gvEPxT37wI2Lxg8feBeGVo2er6N4mJrgOrWnY6AV1ru8Y5DucsKtzvM-2zFOj0PNhDAUVRxEcPqsxCl6wTdOuYhF0HB4P4f2cX2/w400-h400/icon.png",
+      "description": "There are several reasons why people should use Uizard to streamline their design process.",
+      "link": "https://replicateguide.blogspot.com/p/why-should-i-use-uizard.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Uizard Guidelines to Follow",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo9pjEkaHsXUAZVTIHrYxh1_ywWGWvH7xGt67UdZouTHcc0AIC4UJ0sDtVUnWi5j1z2hFjhV35q1GHjES7qkR6gvEPxT37wI2Lxg8feBeGVo2er6N4mJrgOrWnY6AV1ru8Y5DucsKtzvM-2zFOj0PNhDAUVRxEcPqsxCl6wTdOuYhF0HB4P4f2cX2/w400-h400/icon.png",
+      "description": "When using Uizard to create designs, there are some guidelines that you should keep in mind to make the most of this powerful tool",
+      "link": "https://replicateguide.blogspot.com/p/uizard-guidelines-to-follow.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Getting Started with Uizard",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo9pjEkaHsXUAZVTIHrYxh1_ywWGWvH7xGt67UdZouTHcc0AIC4UJ0sDtVUnWi5j1z2hFjhV35q1GHjES7qkR6gvEPxT37wI2Lxg8feBeGVo2er6N4mJrgOrWnY6AV1ru8Y5DucsKtzvM-2zFOj0PNhDAUVRxEcPqsxCl6wTdOuYhF0HB4P4f2cX2/w400-h400/icon.png",
+      "description": "Go to the Uizard website and sign up for a new account. You can choose a free or paid plan",
+      "link": "https://replicateguide.blogspot.com/p/getting-started-with-uizard.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "The Power of AI in UI Design: Exploring Uizard's Impact",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo9pjEkaHsXUAZVTIHrYxh1_ywWGWvH7xGt67UdZouTHcc0AIC4UJ0sDtVUnWi5j1z2hFjhV35q1GHjES7qkR6gvEPxT37wI2Lxg8feBeGVo2er6N4mJrgOrWnY6AV1ru8Y5DucsKtzvM-2zFOj0PNhDAUVRxEcPqsxCl6wTdOuYhF0HB4P4f2cX2/w400-h400/icon.png",
+      "description": "Artificial Intelligence (AI) has transformed various industries, and UI design is no exception.",
+      "link": "https://replicateguide.blogspot.com/p/the-power-of-ai-in-ui-design-exploring.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Streamlining Design Workflow with Uizard: A Case Study",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo9pjEkaHsXUAZVTIHrYxh1_ywWGWvH7xGt67UdZouTHcc0AIC4UJ0sDtVUnWi5j1z2hFjhV35q1GHjES7qkR6gvEPxT37wI2Lxg8feBeGVo2er6N4mJrgOrWnY6AV1ru8Y5DucsKtzvM-2zFOj0PNhDAUVRxEcPqsxCl6wTdOuYhF0HB4P4f2cX2/w400-h400/icon.png",
+      "description": "In the world of UI design, efficiency and productivity are key factors. Uizard, an AI-powered UI design tool",
+      "link": "https://replicateguide.blogspot.com/p/streamlining-design-workflow-with.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Unlocking Creativity: How Uizard Transforms Sketches into Stunning Designs",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo9pjEkaHsXUAZVTIHrYxh1_ywWGWvH7xGt67UdZouTHcc0AIC4UJ0sDtVUnWi5j1z2hFjhV35q1GHjES7qkR6gvEPxT37wI2Lxg8feBeGVo2er6N4mJrgOrWnY6AV1ru8Y5DucsKtzvM-2zFOj0PNhDAUVRxEcPqsxCl6wTdOuYhF0HB4P4f2cX2/w400-h400/icon.png",
+      "description": "Creativity is the lifeblood of UI design, and Uizard is a tool that empowers designers to unleash their creative potential",
+      "link": "https://replicateguide.blogspot.com/p/unlocking-creativity-how-uizard.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Collaborative Design Made Easy: Uizard's Tools for Seamless Teamwork",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo9pjEkaHsXUAZVTIHrYxh1_ywWGWvH7xGt67UdZouTHcc0AIC4UJ0sDtVUnWi5j1z2hFjhV35q1GHjES7qkR6gvEPxT37wI2Lxg8feBeGVo2er6N4mJrgOrWnY6AV1ru8Y5DucsKtzvM-2zFOj0PNhDAUVRxEcPqsxCl6wTdOuYhF0HB4P4f2cX2/w400-h400/icon.png",
+      "description": "Design is rarely a solo endeavor, and Uizard recognizes the importance of collaboration in the design process",
+      "link": "https://replicateguide.blogspot.com/p/collaborative-design-made-easy-uizards.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Revolutionizing UI Design: Uizard's AI Assistant and Pre-Made Templates",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo9pjEkaHsXUAZVTIHrYxh1_ywWGWvH7xGt67UdZouTHcc0AIC4UJ0sDtVUnWi5j1z2hFjhV35q1GHjES7qkR6gvEPxT37wI2Lxg8feBeGVo2er6N4mJrgOrWnY6AV1ru8Y5DucsKtzvM-2zFOj0PNhDAUVRxEcPqsxCl6wTdOuYhF0HB4P4f2cX2/w400-h400/icon.png",
+      "description": "The landscape of UI design is undergoing a revolution, and Uizard is at the forefront of this transformation with its AI Assistant and pre-made templates",
+      "link": "https://replicateguide.blogspot.com/p/revolutionizing-ui-design-uizards-ai.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Summary",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo9pjEkaHsXUAZVTIHrYxh1_ywWGWvH7xGt67UdZouTHcc0AIC4UJ0sDtVUnWi5j1z2hFjhV35q1GHjES7qkR6gvEPxT37wI2Lxg8feBeGVo2er6N4mJrgOrWnY6AV1ru8Y5DucsKtzvM-2zFOj0PNhDAUVRxEcPqsxCl6wTdOuYhF0HB4P4f2cX2/w400-h400/icon.png",
+      "description": "Uizard is a great option for those who need to create professional-looking designs quickly and easily",
+      "link": "https://replicateguide.blogspot.com/p/summary.html"
+    }
+  ]
+}

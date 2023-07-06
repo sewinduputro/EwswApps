@@ -1,0 +1,157 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "619824686759843",
+        "banner": "619824686759843_619825560093089",
+        "mrec": "619824686759843_619825700093075",
+        "inter": "619824686759843_619825650093080",
+        "native_ad": "619824686759843_619825750093070",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What Is Tamadoge?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaRGC7cWs6wbSys5VWeRa3warft-wcWpvhN0UGeTziFxArQQMwOHpoVrmXHcrn4QLDZFEpfUfi1i8iE5yjaprCKPeMDfWfuIZbWD5h4FArSrlmFHHtFEadV6pO0frXhrBliFXVMQpF_HPx_rQ45bxAxxMgpQOsWM_yvWUxIQLvkUt0O7BKqbynDKb/w400-h400/icon.png",
+      "description": "Now, you already know Tamadoge isn’t just a meme coin project",
+      "link": "https://replicateguide.blogspot.com/p/what-is-tamadoge.html"
+    },
+	 {
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Best Tamadoge Games",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaRGC7cWs6wbSys5VWeRa3warft-wcWpvhN0UGeTziFxArQQMwOHpoVrmXHcrn4QLDZFEpfUfi1i8iE5yjaprCKPeMDfWfuIZbWD5h4FArSrlmFHHtFEadV6pO0frXhrBliFXVMQpF_HPx_rQ45bxAxxMgpQOsWM_yvWUxIQLvkUt0O7BKqbynDKb/w400-h400/icon.png",
+      "description": "Before we begin, it’s important for you to know how the arcade games work",
+      "link": "https://replicateguide.blogspot.com/p/best-tamadoge-games.html"
+    },
+	 {
+      "id": 3,
+      "name_category": "Guide",
+      "title": "TAMA Use Cases",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaRGC7cWs6wbSys5VWeRa3warft-wcWpvhN0UGeTziFxArQQMwOHpoVrmXHcrn4QLDZFEpfUfi1i8iE5yjaprCKPeMDfWfuIZbWD5h4FArSrlmFHHtFEadV6pO0frXhrBliFXVMQpF_HPx_rQ45bxAxxMgpQOsWM_yvWUxIQLvkUt0O7BKqbynDKb/w400-h400/icon.png",
+      "description": "We’ve been talking a lot about $TAMA. What exactly are its use cases? First, it’s for players of arcade games",
+      "link": "https://replicateguide.blogspot.com/p/tama-use-cases.html"
+    },
+	 {
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Where to Buy Tamadoge?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaRGC7cWs6wbSys5VWeRa3warft-wcWpvhN0UGeTziFxArQQMwOHpoVrmXHcrn4QLDZFEpfUfi1i8iE5yjaprCKPeMDfWfuIZbWD5h4FArSrlmFHHtFEadV6pO0frXhrBliFXVMQpF_HPx_rQ45bxAxxMgpQOsWM_yvWUxIQLvkUt0O7BKqbynDKb/w400-h400/icon.png",
+      "description": "It’s pretty easy finding the markets for buying the $TAMA token",
+      "link": "https://replicateguide.blogspot.com/p/where-to-buy-tamadoge.html"
+    },
+	 {
+      "id": 5,
+      "name_category": "Guide",
+      "title": "How to Sell Tamadoge?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaRGC7cWs6wbSys5VWeRa3warft-wcWpvhN0UGeTziFxArQQMwOHpoVrmXHcrn4QLDZFEpfUfi1i8iE5yjaprCKPeMDfWfuIZbWD5h4FArSrlmFHHtFEadV6pO0frXhrBliFXVMQpF_HPx_rQ45bxAxxMgpQOsWM_yvWUxIQLvkUt0O7BKqbynDKb/w400-h400/icon.png",
+      "description": "Alright! You’ve made a good trade and you’re looking to cash in some profits",
+      "link": "https://replicateguide.blogspot.com/p/how-to-sell-tamadoge.html"
+    },
+	 {
+      "id": 6,
+      "name_category": "Guide",
+      "title": "The Meme Coin Combining NFTs and Virtual Pets",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaRGC7cWs6wbSys5VWeRa3warft-wcWpvhN0UGeTziFxArQQMwOHpoVrmXHcrn4QLDZFEpfUfi1i8iE5yjaprCKPeMDfWfuIZbWD5h4FArSrlmFHHtFEadV6pO0frXhrBliFXVMQpF_HPx_rQ45bxAxxMgpQOsWM_yvWUxIQLvkUt0O7BKqbynDKb/w400-h400/icon.png",
+      "description": "Tama Doge has emerged as a unique and intriguing project in the world of cryptocurrency",
+      "link": "https://replicateguide.blogspot.com/p/getting-to-know-tama-doge.html"
+    },
+	 {
+      "id": 7,
+      "name_category": "Guide",
+      "title": "NFT Trading and Virtual Battles with Tama Doge",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaRGC7cWs6wbSys5VWeRa3warft-wcWpvhN0UGeTziFxArQQMwOHpoVrmXHcrn4QLDZFEpfUfi1i8iE5yjaprCKPeMDfWfuIZbWD5h4FArSrlmFHHtFEadV6pO0frXhrBliFXVMQpF_HPx_rQ45bxAxxMgpQOsWM_yvWUxIQLvkUt0O7BKqbynDKb/w400-h400/icon.png",
+      "description": "Tama Doge has created a buzz in the cryptocurrency community by combining the popularity of NFT trading with virtual pet battles",
+      "link": "https://replicateguide.blogspot.com/p/nft-trading-and-virtual-battles-with.html"
+    },
+	 {
+      "id": 8,
+      "name_category": "Guide",
+      "title": "The Future of Meme Coins in the Blockchain World",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaRGC7cWs6wbSys5VWeRa3warft-wcWpvhN0UGeTziFxArQQMwOHpoVrmXHcrn4QLDZFEpfUfi1i8iE5yjaprCKPeMDfWfuIZbWD5h4FArSrlmFHHtFEadV6pO0frXhrBliFXVMQpF_HPx_rQ45bxAxxMgpQOsWM_yvWUxIQLvkUt0O7BKqbynDKb/w400-h400/icon.png",
+      "description": "Tama Doge (TAMA) has quickly gained attention as a meme coin project that brings a fresh perspective to the blockchain world",
+      "link": "https://replicateguide.blogspot.com/p/the-future-of-meme-coins-in-blockchain.html"
+    },
+	 {
+      "id": 9,
+      "name_category": "Guide",
+      "title": "How Tama Doge Unlocks New Opportunities in the NFT Industry",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaRGC7cWs6wbSys5VWeRa3warft-wcWpvhN0UGeTziFxArQQMwOHpoVrmXHcrn4QLDZFEpfUfi1i8iE5yjaprCKPeMDfWfuIZbWD5h4FArSrlmFHHtFEadV6pO0frXhrBliFXVMQpF_HPx_rQ45bxAxxMgpQOsWM_yvWUxIQLvkUt0O7BKqbynDKb/w400-h400/icon.png",
+      "description": "Tama Doge has emerged as an exciting project that brings new opportunities to the thriving NFT industry",
+      "link": "https://replicateguide.blogspot.com/p/how-tama-doge-unlocks-new-opportunities.html"
+    },
+	 {
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Earning Tokens and Developing Virtual Pets",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaRGC7cWs6wbSys5VWeRa3warft-wcWpvhN0UGeTziFxArQQMwOHpoVrmXHcrn4QLDZFEpfUfi1i8iE5yjaprCKPeMDfWfuIZbWD5h4FArSrlmFHHtFEadV6pO0frXhrBliFXVMQpF_HPx_rQ45bxAxxMgpQOsWM_yvWUxIQLvkUt0O7BKqbynDKb/w400-h400/icon.png",
+      "description": "If you're interested in exploring the world of Tama Doge and want to get started with earning tokens and developing your virtual pets, this guide is for you",
+      "link": "https://replicateguide.blogspot.com/p/earning-tokens-and-developing-virtual.html"
+    },
+	 {
+      "id": 11,
+      "name_category": "Guide",
+      "title": "What You Need to Know about the Rising Meme Coin Project",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaRGC7cWs6wbSys5VWeRa3warft-wcWpvhN0UGeTziFxArQQMwOHpoVrmXHcrn4QLDZFEpfUfi1i8iE5yjaprCKPeMDfWfuIZbWD5h4FArSrlmFHHtFEadV6pO0frXhrBliFXVMQpF_HPx_rQ45bxAxxMgpQOsWM_yvWUxIQLvkUt0O7BKqbynDKb/w400-h400/icon.png",
+      "description": "Tama Doge has been making waves in the world of meme coins as a rising star with its unique concept and engaging ecosystem.",
+      "link": "https://replicateguide.blogspot.com/p/what-you-need-to-know-about-rising-meme.html"
+    }
+  ]
+}

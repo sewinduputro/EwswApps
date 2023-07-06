@@ -1,0 +1,163 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "min_time": 120,
+        "value": 100,
+
+        "appId_appKey_publisherId_gameId": "203961515542415",
+        "banner": "203961515542415_203964012208832",
+        "mrec": "off",
+        "inter": "203961515542415_203964048875495",
+        "native_ad": "203961515542415_203964182208815",
+        "open_ad": "-",
+        "splash_ad": false
+      },
+      {
+        "name": "admob",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-4741150800258294~3222395560",
+        "banner": "ca-app-pub-4741150800258294/1209695490",
+        "mrec": "-",
+        "inter": "ca-app-pub-4741150800258294/3644287142",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is Kreado AI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-664zVyWT5mhBYk_UvJsf-cKYpE5LPISXMYJSHtJlbIUWWBH-cADs1lEWdpqY7roISTTOv4mwHGgr-mR7dWUd5zQeezu8SLYSEuNzZc9j5k-bG5CUlCrIA2HxzmSNAvi7HtEDmL0BpzYYOD2CUOY790UnPe7CA_bS4TMg4uodCS7r9sMFEV7k2dUMC0/w400-h400/icon.png",
+      "description": "Kreado AI takes prompts from the user and processes them to generate the desired video output",
+      "link": "https://replicateguide.blogspot.com/p/what-is-kreado-ai.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Kreado AI Features",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-664zVyWT5mhBYk_UvJsf-cKYpE5LPISXMYJSHtJlbIUWWBH-cADs1lEWdpqY7roISTTOv4mwHGgr-mR7dWUd5zQeezu8SLYSEuNzZc9j5k-bG5CUlCrIA2HxzmSNAvi7HtEDmL0BpzYYOD2CUOY790UnPe7CA_bS4TMg4uodCS7r9sMFEV7k2dUMC0/w400-h400/icon.png",
+      "description": "Kreado AI is an exceptional video generation tool that allows creators to create engaging videos with the power of AI",
+      "link": "https://replicateguide.blogspot.com/p/kreado-ai-features.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Kreado AI Use Case",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-664zVyWT5mhBYk_UvJsf-cKYpE5LPISXMYJSHtJlbIUWWBH-cADs1lEWdpqY7roISTTOv4mwHGgr-mR7dWUd5zQeezu8SLYSEuNzZc9j5k-bG5CUlCrIA2HxzmSNAvi7HtEDmL0BpzYYOD2CUOY790UnPe7CA_bS4TMg4uodCS7r9sMFEV7k2dUMC0/w400-h400/icon.png",
+      "description": "Kreado AI is a helpful tool for everyone in the video creation field",
+      "link": "https://replicateguide.blogspot.com/p/kreado-ai-use-case.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Kreado AI Pricing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-664zVyWT5mhBYk_UvJsf-cKYpE5LPISXMYJSHtJlbIUWWBH-cADs1lEWdpqY7roISTTOv4mwHGgr-mR7dWUd5zQeezu8SLYSEuNzZc9j5k-bG5CUlCrIA2HxzmSNAvi7HtEDmL0BpzYYOD2CUOY790UnPe7CA_bS4TMg4uodCS7r9sMFEV7k2dUMC0/w400-h400/icon.png",
+      "description": "You don’t need to pay anything to use the tool for custom avatar generation, video creation, or ad copy creation",
+      "link": "https://replicateguide.blogspot.com/p/kreado-ai-pricing.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Creating Jaw-Dropping Custom Videos and Avatars!",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-664zVyWT5mhBYk_UvJsf-cKYpE5LPISXMYJSHtJlbIUWWBH-cADs1lEWdpqY7roISTTOv4mwHGgr-mR7dWUd5zQeezu8SLYSEuNzZc9j5k-bG5CUlCrIA2HxzmSNAvi7HtEDmL0BpzYYOD2CUOY790UnPe7CA_bS4TMg4uodCS7r9sMFEV7k2dUMC0/w400-h400/icon.png",
+      "description": "Kreado AI is a game-changer in the world of content creation, offering an unprecedented level of power and creativity",
+      "link": "https://replicateguide.blogspot.com/p/creating-jaw-dropping-custom-videos-and.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "How Kreado AI Transforms Ordinary Businesses into Extraordinary Visual Powerhouses",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-664zVyWT5mhBYk_UvJsf-cKYpE5LPISXMYJSHtJlbIUWWBH-cADs1lEWdpqY7roISTTOv4mwHGgr-mR7dWUd5zQeezu8SLYSEuNzZc9j5k-bG5CUlCrIA2HxzmSNAvi7HtEDmL0BpzYYOD2CUOY790UnPe7CA_bS4TMg4uodCS7r9sMFEV7k2dUMC0/w400-h400/icon.png",
+      "description": "Kreado AI is the ultimate game-changer for businesses looking to elevate their visual content and stand out from the competition",
+      "link": "https://replicateguide.blogspot.com/p/how-kreado-ai-transforms-ordinary.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Kreado AI's Astonishing Multilingual Oral Videos that Will Leave You Speechless",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-664zVyWT5mhBYk_UvJsf-cKYpE5LPISXMYJSHtJlbIUWWBH-cADs1lEWdpqY7roISTTOv4mwHGgr-mR7dWUd5zQeezu8SLYSEuNzZc9j5k-bG5CUlCrIA2HxzmSNAvi7HtEDmL0BpzYYOD2CUOY790UnPe7CA_bS4TMg4uodCS7r9sMFEV7k2dUMC0/w400-h400/icon.png",
+      "description": "Prepare to be amazed by Kreado AI's astonishing multilingual oral videos that push the boundaries of imagination",
+      "link": "https://replicateguide.blogspot.com/p/kreado-ais-astonishing-multilingual.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Kreado AI's Magical Tools for Crafting Mesmerizing Visual Masterpieces",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-664zVyWT5mhBYk_UvJsf-cKYpE5LPISXMYJSHtJlbIUWWBH-cADs1lEWdpqY7roISTTOv4mwHGgr-mR7dWUd5zQeezu8SLYSEuNzZc9j5k-bG5CUlCrIA2HxzmSNAvi7HtEDmL0BpzYYOD2CUOY790UnPe7CA_bS4TMg4uodCS7r9sMFEV7k2dUMC0/w400-h400/icon.png",
+      "description": "Unleash your inner Picasso with the help of Kreado AI's magical tools that transform the process of crafting visual masterpieces",
+      "link": "https://replicateguide.blogspot.com/p/kreado-ais-magical-tools-for-crafting.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "How Kreado AI Revolutionizes E-commerce with Mind-Blowing Visual Content",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-664zVyWT5mhBYk_UvJsf-cKYpE5LPISXMYJSHtJlbIUWWBH-cADs1lEWdpqY7roISTTOv4mwHGgr-mR7dWUd5zQeezu8SLYSEuNzZc9j5k-bG5CUlCrIA2HxzmSNAvi7HtEDmL0BpzYYOD2CUOY790UnPe7CA_bS4TMg4uodCS7r9sMFEV7k2dUMC0/w400-h400/icon.png",
+      "description": "Kreado AI is revolutionizing the world of e-commerce by providing businesses with the tools they need to go from zero to hero in terms of visual content",
+      "link": "https://replicateguide.blogspot.com/p/how-kreado-ai-revolutionizes-e-commerce.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Kreado AI's Explosive Marketing Copy that Will Set Your Sales on Fire",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-664zVyWT5mhBYk_UvJsf-cKYpE5LPISXMYJSHtJlbIUWWBH-cADs1lEWdpqY7roISTTOv4mwHGgr-mR7dWUd5zQeezu8SLYSEuNzZc9j5k-bG5CUlCrIA2HxzmSNAvi7HtEDmL0BpzYYOD2CUOY790UnPe7CA_bS4TMg4uodCS7r9sMFEV7k2dUMC0/w400-h400/icon.png",
+      "description": "Prepare for an explosion of creativity with Kreado AI's explosive marketing copy that will ignite your brand's fireworks and set your sales on fire",
+      "link": "https://replicateguide.blogspot.com/p/kreado-ais-explosive-marketing-copy.html"
+    }
+  ]
+}

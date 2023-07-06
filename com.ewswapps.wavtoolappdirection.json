@@ -1,0 +1,181 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "6315642261855099",
+        "banner": "6315642261855099_6315645281854797",
+        "mrec": "6315642261855099_6315645831854742",
+        "inter": "6315642261855099_6315645591854766",
+        "native_ad": "6315642261855099_6315646218521370",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is WavTool?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "WavTool is an AI-based tool that provides users with a platform for music production entirely in their browsers",
+      "link": "https://replicateguide.blogspot.com/p/what-is-wavtool.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "WavTool Features",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "arness the power of artificial intelligence for seamless music production in your browser",
+      "link": "https://replicateguide.blogspot.com/p/wavtool-features.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "WavTool Benefits",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "Comprehensive Music Production",
+      "link": "https://replicateguide.blogspot.com/p/wavtool-benefits.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Use Cases",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "Beginners looking for an intuitive and guided music production experience",
+      "link": "https://replicateguide.blogspot.com/p/use-cases_10.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "WavTool Pricing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "You can sign up for free, but the app offers a limited number of AI prompts",
+      "link": "https://replicateguide.blogspot.com/p/wavtool-pricing.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "AI-Powered Music Production in Your Browser",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "WavTool is a groundbreaking platform that brings music production to the masses with its AI-powered tools",
+      "link": "https://replicateguide.blogspot.com/p/ai-powered-music-production-in-your.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Advanced Synthesis and Flexible Routing for Music Makers",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "WavTool is revolutionizing the way musicians and producers approach music creation by offering advanced synthesis and flexible signal routing capabilities",
+      "link": "https://replicateguide.blogspot.com/p/advanced-synthesis-and-flexible-routing.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Your All-in-One Free Music Production Solution",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "WavTool is the ultimate all-in-one solution for music production, and the best part is",
+      "link": "https://replicateguide.blogspot.com/p/your-all-in-one-free-music-production.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Empowering Musicians with Frictionless Production",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "WavTool is a groundbreaking tool that empowers musicians of all levels by providing frictionless music production",
+      "link": "https://replicateguide.blogspot.com/p/empowering-musicians-with-frictionless.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Create, Mix, and Master with Ease",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "WavTool offers a user-friendly interface that allows you to seamlessly create, mix, and master your music",
+      "link": "https://replicateguide.blogspot.com/p/create-mix-and-master-with-ease.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "AI-Assisted Music Production for All Levels",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "WavTool is revolutionizing music production with its AI-assisted features, making it accessible and beneficial for musicians of all levels",
+      "link": "https://replicateguide.blogspot.com/p/ai-assisted-music-production-for-all.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Guide",
+      "title": "AI-Driven Music Production Made Easy",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "WavTool is changing the game of music production by utilizing AI-driven technology to make the process easier and more efficient",
+      "link": "https://replicateguide.blogspot.com/p/ai-driven-music-production-made-easy.html"
+    },
+	{
+      "id": 13,
+      "name_category": "Guide",
+      "title": "AI-Powered Music Production for Innovative Sound Design",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "WavTool takes sound design to the next level with its AI-powered features",
+      "link": "https://replicateguide.blogspot.com/p/ai-powered-music-production-for.html"
+    },
+	{
+      "id": 14,
+      "name_category": "Guide",
+      "title": "Accessible Music Production for Everyone",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFJKMwk8UHVuImhZbXB-7fl2PAjPirqGVt-BCp4ZVuowCzGicPPlaCQkiHFhyI0lEoO5jT-HDBVWbV-ux4elUgSkuHGxSYstfJ6Hs13w5BYkG0Aiqfh3XA-MJ-T6fSF2cv57dJ-5ELMG3mzGyJ8j2qyNGz23AgEqfrbJ5_ZcogGvXrndtSXh2K1hW/w400-h400/icon.png",
+      "description": "WavTool is on a mission to make music production accessible to everyone, regardless of their technical expertise or financial resources",
+      "link": "https://replicateguide.blogspot.com/p/accessible-music-production-for-everyone.html"
+    }
+  ]
+}

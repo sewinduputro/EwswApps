@@ -2,24 +2,25 @@
   "ads": {
     "settings": {
       "app_id_onesignal": "off",
-      "interval_interstitial": 2,
-      "switch_ads_type": "banner_native_linear",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_chat_bot": true
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
     },
 
     "ad_network": [
       {
-        "name": "iklanoff",
+        "name": "admob",
         "value": 1,
 
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
-        "open_ad": "-",
-        "splash_ad": true
+        "appId_appKey_publisherId_gameId": "ca-app-pub-4741150800258294~2774051463",
+        "banner": "ca-app-pub-4741150800258294/8437441689",
+        "mrec": "off",
+        "inter": "ca-app-pub-4741150800258294/8489412579",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
       }
     ]
   },
@@ -49,7 +50,7 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
+      "name_category": "Documentation",
       "image": "file:///android_asset/image/image1.png"
     },
     {
@@ -67,75 +68,75 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safetyssss",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "file:///android_asset/guide/guide1.html"
+      "name_category": "Documentation",
+      "title": "What is BlueWillow?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtppdOahtRdm2e39eEJHPSW1kMBuq03Bd5PBg13EIxBBQeg0cJDMncyshFscetkmgEO5osOEcb5pNzhGG6Sg1vBCo96rvvLSL3tRKzNzUATLlF6kb4E5Aaw4F2yUC0Cr1ewGXCQvJThpamMyWDcpvQadUdtb_P2sTiMux5F3FaAnEX8Goi3lbzaO4X/s320/icon%20bluewillow.png",
+      "description": "BlueWillow makes it easier than ever to create stunning pieces of art, logos, graphics, and more, without any prior experience or skill in digital art",
+      "link": "https://replicateguide.blogspot.com/p/what-is-bluewillow.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
-      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+      "name_category": "Documentation",
+      "title": "FAQ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtppdOahtRdm2e39eEJHPSW1kMBuq03Bd5PBg13EIxBBQeg0cJDMncyshFscetkmgEO5osOEcb5pNzhGG6Sg1vBCo96rvvLSL3tRKzNzUATLlF6kb4E5Aaw4F2yUC0Cr1ewGXCQvJThpamMyWDcpvQadUdtb_P2sTiMux5F3FaAnEX8Goi3lbzaO4X/s320/icon%20bluewillow.png",
+      "description": "Frequently Asked Questions",
+      "link": "https://replicateguide.blogspot.com/p/frequently-asked-questions.html"
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "name_category": "Documentation",
+      "title": "PWYC FAQ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtppdOahtRdm2e39eEJHPSW1kMBuq03Bd5PBg13EIxBBQeg0cJDMncyshFscetkmgEO5osOEcb5pNzhGG6Sg1vBCo96rvvLSL3tRKzNzUATLlF6kb4E5Aaw4F2yUC0Cr1ewGXCQvJThpamMyWDcpvQadUdtb_P2sTiMux5F3FaAnEX8Goi3lbzaO4X/s320/icon%20bluewillow.png",
+      "description": "Why is BlueWillow pursuing a Pay What You Can (PWYC) model?",
+      "link": "https://replicateguide.blogspot.com/p/pwyc-faq.html"
     },
     {
       "id": 4,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Documentation",
+      "title": "Img2Img",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtppdOahtRdm2e39eEJHPSW1kMBuq03Bd5PBg13EIxBBQeg0cJDMncyshFscetkmgEO5osOEcb5pNzhGG6Sg1vBCo96rvvLSL3tRKzNzUATLlF6kb4E5Aaw4F2yUC0Cr1ewGXCQvJThpamMyWDcpvQadUdtb_P2sTiMux5F3FaAnEX8Goi3lbzaO4X/s320/icon%20bluewillow.png",
+      "description": "Image-to-image or Img2img is a technique where an AI creates a new image using an existing image and text prompt",
+      "link": "https://replicateguide.blogspot.com/p/img2img.html"
     },
     {
       "id": 5,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Documentation",
+      "title": "Parameters",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtppdOahtRdm2e39eEJHPSW1kMBuq03Bd5PBg13EIxBBQeg0cJDMncyshFscetkmgEO5osOEcb5pNzhGG6Sg1vBCo96rvvLSL3tRKzNzUATLlF6kb4E5Aaw4F2yUC0Cr1ewGXCQvJThpamMyWDcpvQadUdtb_P2sTiMux5F3FaAnEX8Goi3lbzaO4X/s320/icon%20bluewillow.png",
+      "description": "For now there are few basic commands you can use. In future there will be more available!",
+      "link": "https://replicateguide.blogspot.com/p/parameters.html"
     },
     {
       "id": 6,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Documentation",
+      "title": "What is a prompt?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtppdOahtRdm2e39eEJHPSW1kMBuq03Bd5PBg13EIxBBQeg0cJDMncyshFscetkmgEO5osOEcb5pNzhGG6Sg1vBCo96rvvLSL3tRKzNzUATLlF6kb4E5Aaw4F2yUC0Cr1ewGXCQvJThpamMyWDcpvQadUdtb_P2sTiMux5F3FaAnEX8Goi3lbzaO4X/s320/icon%20bluewillow.png",
+      "description": "A prompt is a method of communicating with the BlueWillow image generator by using written text as input",
+      "link": "https://replicateguide.blogspot.com/p/what-is-prompt.html"
     },
     {
       "id": 7,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Documentation",
+      "title": "Prompt",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtppdOahtRdm2e39eEJHPSW1kMBuq03Bd5PBg13EIxBBQeg0cJDMncyshFscetkmgEO5osOEcb5pNzhGG6Sg1vBCo96rvvLSL3tRKzNzUATLlF6kb4E5Aaw4F2yUC0Cr1ewGXCQvJThpamMyWDcpvQadUdtb_P2sTiMux5F3FaAnEX8Goi3lbzaO4X/s320/icon%20bluewillow.png",
+      "description": "When you provide a prompt to the BlueWillow Bot, it generates an image based on the text you've entered",
+      "link": "https://replicateguide.blogspot.com/p/prompt.html"
     },
     {
       "id": 8,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Documentation",
+      "title": "Invite Bot",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtppdOahtRdm2e39eEJHPSW1kMBuq03Bd5PBg13EIxBBQeg0cJDMncyshFscetkmgEO5osOEcb5pNzhGG6Sg1vBCo96rvvLSL3tRKzNzUATLlF6kb4E5Aaw4F2yUC0Cr1ewGXCQvJThpamMyWDcpvQadUdtb_P2sTiMux5F3FaAnEX8Goi3lbzaO4X/s320/icon%20bluewillow.png",
+      "description": "Users can invite BlueWillow Bot in their servers",
+      "link": "https://replicateguide.blogspot.com/p/invite-bot.html"
     },
     {
       "id": 9,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Documentation",
+      "title": "Direct Message",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtppdOahtRdm2e39eEJHPSW1kMBuq03Bd5PBg13EIxBBQeg0cJDMncyshFscetkmgEO5osOEcb5pNzhGG6Sg1vBCo96rvvLSL3tRKzNzUATLlF6kb4E5Aaw4F2yUC0Cr1ewGXCQvJThpamMyWDcpvQadUdtb_P2sTiMux5F3FaAnEX8Goi3lbzaO4X/s320/icon%20bluewillow.png",
+      "description": "Users can use private window with BlueWillow Bot via Direct Messages",
+      "link": "https://replicateguide.blogspot.com/p/direct-message.html"
     }
   ]
 }

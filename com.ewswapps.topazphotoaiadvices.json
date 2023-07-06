@@ -1,0 +1,149 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "off",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "5924887890949897",
+        "banner": "5924887890949897_5924890694282950",
+        "mrec": "5924887890949897_5924891410949545",
+        "inter": "5924887890949897_5924891054282914",
+        "native_ad": "5924887890949897_5924891810949505",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "big_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is Topaz Photo AI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFaqGrYfrL_LEQ2_PeWGrfTNarFFLS2FjfZVkbL2bkYSu6cwv1KrxPFAz6OQVnO_jp3CkOxI7wN7w9YZfB6hUi6hPK97sdJj4HiajBjY7LeD_9CnePlR59E6UAM4tszcwMpiymvWEG41Ncpz8hbdyZ4HX9YV5vfkOIIGely1VQyJQfkzeURNsuKNlX/w400-h400/icon.png",
+      "description": "Topaz Photo AI is an all-in-one image enhancement application for PC and Mac that combines the power of Gigapixel AI, Sharpen AI, and Denoise AI into a single easy-to-use interface",
+      "link": "https://replicateguide.blogspot.com/p/what-is-topaz-photo-ai.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "What does Topaz Photo AI do?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFaqGrYfrL_LEQ2_PeWGrfTNarFFLS2FjfZVkbL2bkYSu6cwv1KrxPFAz6OQVnO_jp3CkOxI7wN7w9YZfB6hUi6hPK97sdJj4HiajBjY7LeD_9CnePlR59E6UAM4tszcwMpiymvWEG41Ncpz8hbdyZ4HX9YV5vfkOIIGely1VQyJQfkzeURNsuKNlX/w400-h400/icon.png",
+      "description": "Broadly speaking, Topaz Photo AI will sharpen, upscale, and denoise your images",
+      "link": "https://replicateguide.blogspot.com/p/what-does-topaz-photo-ai-do.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Topaz Photo AI Tutorial",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFaqGrYfrL_LEQ2_PeWGrfTNarFFLS2FjfZVkbL2bkYSu6cwv1KrxPFAz6OQVnO_jp3CkOxI7wN7w9YZfB6hUi6hPK97sdJj4HiajBjY7LeD_9CnePlR59E6UAM4tszcwMpiymvWEG41Ncpz8hbdyZ4HX9YV5vfkOIIGely1VQyJQfkzeURNsuKNlX/w400-h400/icon.png",
+      "description": "opaz Photo AI is designed to be easy to use – especially if you leave it in Auto Pilot.",
+      "link": "https://replicateguide.blogspot.com/p/topaz-photo-ai-tutorial.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Topaz Photo AI Test",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFaqGrYfrL_LEQ2_PeWGrfTNarFFLS2FjfZVkbL2bkYSu6cwv1KrxPFAz6OQVnO_jp3CkOxI7wN7w9YZfB6hUi6hPK97sdJj4HiajBjY7LeD_9CnePlR59E6UAM4tszcwMpiymvWEG41Ncpz8hbdyZ4HX9YV5vfkOIIGely1VQyJQfkzeURNsuKNlX/w400-h400/icon.png",
+      "description": "This part of this Topaz Photo AI Review is where we find out if Topaz Photo AI is any good.",
+      "link": "https://replicateguide.blogspot.com/p/topaz-photo-ai-test.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "What is Topaz Photo AI like to use?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFaqGrYfrL_LEQ2_PeWGrfTNarFFLS2FjfZVkbL2bkYSu6cwv1KrxPFAz6OQVnO_jp3CkOxI7wN7w9YZfB6hUi6hPK97sdJj4HiajBjY7LeD_9CnePlR59E6UAM4tszcwMpiymvWEG41Ncpz8hbdyZ4HX9YV5vfkOIIGely1VQyJQfkzeURNsuKNlX/w400-h400/icon.png",
+      "description": "Topaz Photo AI is very straightforward to use",
+      "link": "https://replicateguide.blogspot.com/p/what-is-topaz-photo-ai-like-to-use.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Is Topaz Photo AI worth it?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFaqGrYfrL_LEQ2_PeWGrfTNarFFLS2FjfZVkbL2bkYSu6cwv1KrxPFAz6OQVnO_jp3CkOxI7wN7w9YZfB6hUi6hPK97sdJj4HiajBjY7LeD_9CnePlR59E6UAM4tszcwMpiymvWEG41Ncpz8hbdyZ4HX9YV5vfkOIIGely1VQyJQfkzeURNsuKNlX/w400-h400/icon.png",
+      "description": "opaz Photo AI remains one of the best image enhancement applications today",
+      "link": "https://replicateguide.blogspot.com/p/is-topaz-photo-ai-worth-it.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Topaz Photo AI Compared",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFaqGrYfrL_LEQ2_PeWGrfTNarFFLS2FjfZVkbL2bkYSu6cwv1KrxPFAz6OQVnO_jp3CkOxI7wN7w9YZfB6hUi6hPK97sdJj4HiajBjY7LeD_9CnePlR59E6UAM4tszcwMpiymvWEG41Ncpz8hbdyZ4HX9YV5vfkOIIGely1VQyJQfkzeURNsuKNlX/w400-h400/icon.png",
+      "description": "Topaz Photo AI Compared with Another Tools",
+      "link": "https://replicateguide.blogspot.com/p/topaz-photo-ai-compared.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Interface and Usability",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFaqGrYfrL_LEQ2_PeWGrfTNarFFLS2FjfZVkbL2bkYSu6cwv1KrxPFAz6OQVnO_jp3CkOxI7wN7w9YZfB6hUi6hPK97sdJj4HiajBjY7LeD_9CnePlR59E6UAM4tszcwMpiymvWEG41Ncpz8hbdyZ4HX9YV5vfkOIIGely1VQyJQfkzeURNsuKNlX/w400-h400/icon.png",
+      "description": "Interface and Usability Topaz Photo AI",
+      "link": "https://replicateguide.blogspot.com/p/interface-and-usability.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Pros and Cons",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFaqGrYfrL_LEQ2_PeWGrfTNarFFLS2FjfZVkbL2bkYSu6cwv1KrxPFAz6OQVnO_jp3CkOxI7wN7w9YZfB6hUi6hPK97sdJj4HiajBjY7LeD_9CnePlR59E6UAM4tszcwMpiymvWEG41Ncpz8hbdyZ4HX9YV5vfkOIIGely1VQyJQfkzeURNsuKNlX/w400-h400/icon.png",
+      "description": "Pros and Cons Topaz Photo AI",
+      "link": "https://replicateguide.blogspot.com/p/pros-cons.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFaqGrYfrL_LEQ2_PeWGrfTNarFFLS2FjfZVkbL2bkYSu6cwv1KrxPFAz6OQVnO_jp3CkOxI7wN7w9YZfB6hUi6hPK97sdJj4HiajBjY7LeD_9CnePlR59E6UAM4tszcwMpiymvWEG41Ncpz8hbdyZ4HX9YV5vfkOIIGely1VQyJQfkzeURNsuKNlX/w400-h400/icon.png",
+      "description": "Topaz Photo AI combines first-class image enhancement applications Gigapixel, Denoise AI, and Sharpen AI and places them into one single coherent application",
+      "link": "https://replicateguide.blogspot.com/p/conclusion_5.html"
+    }
+  ]
+}

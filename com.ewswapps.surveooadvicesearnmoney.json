@@ -1,0 +1,165 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "min_time": 120,
+        "value": 100,
+
+        "appId_appKey_publisherId_gameId": "643971637607544",
+        "banner": "643971637607544_643975987607109",
+        "mrec": "off",
+        "inter": "643971637607544_643976060940435",
+        "native_ad": "643971637607544_643976210940420",
+        "open_ad": "-",
+        "splash_ad": false
+      },
+      {
+        "name": "admob",
+        "value": 10,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-4741150800258294~8223722643",
+        "banner": "ca-app-pub-4741150800258294/9984361026",
+        "mrec": "-",
+        "inter": "ca-app-pub-4741150800258294/3991412713",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "Survimo Paid Surveys Advices",
+      "image": "https://play-lh.googleusercontent.com/tDuvdNpVdaRGcUbn59i7qtDey1r_eF9Iw_e5nj2D_YaBnjeoqqjhhy17C5tajG2p5Q=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.ewswapps.survimopaidsurveysadvices"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is Surveoo, and what does it offer?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFo14rLBzvrSCN8KPj_63kAD7eM1vHiHRUhAWHR7LRb0OI6tKEswm4mtAwNufpFG_VbGddeYqKRPgQYLUX6bWBoUEpVdPjPy0Tq5yVy2ZAiZi8Fk3BI9IpvVh3sU3MAcMWUNVijsDXS6GSWUlKgWRsFdFFFNDM1Nj2xxgXSbQ9NufPhms2g6SXQicz/w400-h400/icon.png",
+      "description": "Surveoo, as you can see above, is a survey site that will reward you for answering surveys",
+      "link": "https://replicateguide.blogspot.com/p/what-is-surveoo-and-what-does-it-offer.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "How do you get paid?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFo14rLBzvrSCN8KPj_63kAD7eM1vHiHRUhAWHR7LRb0OI6tKEswm4mtAwNufpFG_VbGddeYqKRPgQYLUX6bWBoUEpVdPjPy0Tq5yVy2ZAiZi8Fk3BI9IpvVh3sU3MAcMWUNVijsDXS6GSWUlKgWRsFdFFFNDM1Nj2xxgXSbQ9NufPhms2g6SXQicz/w400-h400/icon.png",
+      "description": "For every survey you manage to complete, you will earn a certain amount, and it will be credited to your account balance",
+      "link": "https://replicateguide.blogspot.com/p/how-do-you-get-paid.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "How much money can you make?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFo14rLBzvrSCN8KPj_63kAD7eM1vHiHRUhAWHR7LRb0OI6tKEswm4mtAwNufpFG_VbGddeYqKRPgQYLUX6bWBoUEpVdPjPy0Tq5yVy2ZAiZi8Fk3BI9IpvVh3sU3MAcMWUNVijsDXS6GSWUlKgWRsFdFFFNDM1Nj2xxgXSbQ9NufPhms2g6SXQicz/w400-h400/icon.png",
+      "description": "The amount you can earn from a survey site like this will depend on how many surveys you can actually complete and how well the site pays",
+      "link": "https://replicateguide.blogspot.com/p/how-much-money-can-you-make.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Can you use it on mobile?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFo14rLBzvrSCN8KPj_63kAD7eM1vHiHRUhAWHR7LRb0OI6tKEswm4mtAwNufpFG_VbGddeYqKRPgQYLUX6bWBoUEpVdPjPy0Tq5yVy2ZAiZi8Fk3BI9IpvVh3sU3MAcMWUNVijsDXS6GSWUlKgWRsFdFFFNDM1Nj2xxgXSbQ9NufPhms2g6SXQicz/w400-h400/icon.png",
+      "description": "Surveoo doesn’t have a mobile app you can download, but you can still access the website from a mobile device through a mobile web browser",
+      "link": "https://replicateguide.blogspot.com/p/can-you-use-it-on-mobile.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Who can join Surveoo?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFo14rLBzvrSCN8KPj_63kAD7eM1vHiHRUhAWHR7LRb0OI6tKEswm4mtAwNufpFG_VbGddeYqKRPgQYLUX6bWBoUEpVdPjPy0Tq5yVy2ZAiZi8Fk3BI9IpvVh3sU3MAcMWUNVijsDXS6GSWUlKgWRsFdFFFNDM1Nj2xxgXSbQ9NufPhms2g6SXQicz/w400-h400/icon.png",
+      "description": "The site doesn’t really tell you exactly which countries it is available in, but from what I can see, it is available in many countries",
+      "link": "https://replicateguide.blogspot.com/p/who-can-join-surveoo.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Can you get support?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFo14rLBzvrSCN8KPj_63kAD7eM1vHiHRUhAWHR7LRb0OI6tKEswm4mtAwNufpFG_VbGddeYqKRPgQYLUX6bWBoUEpVdPjPy0Tq5yVy2ZAiZi8Fk3BI9IpvVh3sU3MAcMWUNVijsDXS6GSWUlKgWRsFdFFFNDM1Nj2xxgXSbQ9NufPhms2g6SXQicz/w400-h400/icon.png",
+      "description": "If you have any questions about the site or your account, you can check out the FAQ page first",
+      "link": "https://replicateguide.blogspot.com/p/can-you-get-support.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Pros and Cons",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFo14rLBzvrSCN8KPj_63kAD7eM1vHiHRUhAWHR7LRb0OI6tKEswm4mtAwNufpFG_VbGddeYqKRPgQYLUX6bWBoUEpVdPjPy0Tq5yVy2ZAiZi8Fk3BI9IpvVh3sU3MAcMWUNVijsDXS6GSWUlKgWRsFdFFFNDM1Nj2xxgXSbQ9NufPhms2g6SXQicz/w400-h400/icon.png",
+      "description": "Pros and Cons about Surveeoo",
+      "link": "https://replicateguide.blogspot.com/p/pros-and-cons_15.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Concslusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFo14rLBzvrSCN8KPj_63kAD7eM1vHiHRUhAWHR7LRb0OI6tKEswm4mtAwNufpFG_VbGddeYqKRPgQYLUX6bWBoUEpVdPjPy0Tq5yVy2ZAiZi8Fk3BI9IpvVh3sU3MAcMWUNVijsDXS6GSWUlKgWRsFdFFFNDM1Nj2xxgXSbQ9NufPhms2g6SXQicz/w400-h400/icon.png",
+      "description": "Surveoo is a legitimate platform where you can earn money by answering surveys",
+      "link": "https://replicateguide.blogspot.com/p/conclusion_15.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "How Can you redeem your Surveoo earnings?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFo14rLBzvrSCN8KPj_63kAD7eM1vHiHRUhAWHR7LRb0OI6tKEswm4mtAwNufpFG_VbGddeYqKRPgQYLUX6bWBoUEpVdPjPy0Tq5yVy2ZAiZi8Fk3BI9IpvVh3sU3MAcMWUNVijsDXS6GSWUlKgWRsFdFFFNDM1Nj2xxgXSbQ9NufPhms2g6SXQicz/w400-h400/icon.png",
+      "description": "Surveoo offers three payment methods to choose from: PayPal, direct bank transfer, or Amazon gift cards",
+      "link": "https://replicateguide.blogspot.com/p/how-can-you-redeem-your-surveoo-earnings.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Is it easy to earn money on surveoo?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFo14rLBzvrSCN8KPj_63kAD7eM1vHiHRUhAWHR7LRb0OI6tKEswm4mtAwNufpFG_VbGddeYqKRPgQYLUX6bWBoUEpVdPjPy0Tq5yVy2ZAiZi8Fk3BI9IpvVh3sU3MAcMWUNVijsDXS6GSWUlKgWRsFdFFFNDM1Nj2xxgXSbQ9NufPhms2g6SXQicz/w400-h400/icon.png",
+      "description": "Earning money on the site is not easy, so if you are planning to join in order to earn much money am sure you are not going to enjoy the rest part of it",
+      "link": "https://replicateguide.blogspot.com/p/is-it-easy-to-earn-money-on-surveoo.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Tips for Maximizing Your Experience on Surveoo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFo14rLBzvrSCN8KPj_63kAD7eM1vHiHRUhAWHR7LRb0OI6tKEswm4mtAwNufpFG_VbGddeYqKRPgQYLUX6bWBoUEpVdPjPy0Tq5yVy2ZAiZi8Fk3BI9IpvVh3sU3MAcMWUNVijsDXS6GSWUlKgWRsFdFFFNDM1Nj2xxgXSbQ9NufPhms2g6SXQicz/w400-h400/icon.png",
+      "description": "To optimize your experience on Surveoo and make the most of the available opportunities, consider implementing the following tips",
+      "link": "https://replicateguide.blogspot.com/p/tips-for-maximizing-your-experience-on.html"
+    }
+  ]
+}

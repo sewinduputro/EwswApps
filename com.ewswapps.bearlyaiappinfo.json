@@ -1,0 +1,189 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "iklanoff",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "big_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "A Powerful Tool",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Bearly AI: A Powerful Tool for Efficient Reading and Writing",
+      "link": "https://replicateguide.blogspot.com/p/bearly-ai-powerful-tool-for-efficient.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Information",
+      "title": "Boost Your Productivity",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Boost Your Productivity with Bearly AI: The Ultimate Time-Saver",
+      "link": "https://replicateguide.blogspot.com/p/boost-your-productivity-with-bearly-ai.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Information",
+      "title": "Revolutionizing Information Retrieval",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Unlocking the Potential of Bearly AI: Revolutionizing Information Retrieval",
+      "link": "https://replicateguide.blogspot.com/p/unlocking-potential-of-bearly-ai.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Information",
+      "title": "Writing Made Easy",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Writing Made Easy: How Bearly AI Simplifies the Writing Process",
+      "link": "https://replicateguide.blogspot.com/p/writing-made-easy-how-bearly-ai.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Information",
+      "title": "Supercharge Your Writing Skills",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Supercharge Your Writing Skills with Bearly AI's Automated Text Correction",
+      "link": "https://replicateguide.blogspot.com/p/supercharge-your-writing-skills-with.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Information",
+      "title": "Discover the Future of AI-Assisted",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Discover the Future of AI-Assisted Learning with Bearly AI",
+      "link": "https://replicateguide.blogspot.com/p/discover-future-of-ai-assisted-learning.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Information",
+      "title": "Your Personal Writing Assistant",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Bearly AI: Your Personal Writing Assistant at Your Fingertips",
+      "link": "https://replicateguide.blogspot.com/p/bearly-ai-your-personal-writing.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Information",
+      "title": "Rapid Knowledge Acquisition",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Unleashing the Power of Bearly AI for Rapid Knowledge Acquisition",
+      "link": "https://replicateguide.blogspot.com/p/unleashing-power-of-bearly-ai-for-rapid.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Information",
+      "title": "Enhance Collaboration and Efficiency",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Enhance Collaboration and Efficiency with Bearly AI's Sharing and Collaboration Features",
+      "link": "https://replicateguide.blogspot.com/p/enhance-collaboration-and-efficiency.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Information",
+      "title": "Effortlessly Improve Writing Skills",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Effortlessly Improve Writing Skills with Bearly AI's Writing Enhancement Tools",
+      "link": "https://replicateguide.blogspot.com/p/effortlessly-improve-writing-skills.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Information",
+      "title": "Streamline Your Research Process",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Streamline Your Research Process with Bearly AI's Intelligent Research Assistance",
+      "link": "https://replicateguide.blogspot.com/p/streamline-your-research-process-with.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Information",
+      "title": "Boost Productivity",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Boost Productivity with Bearly AI's Time-Saving Features",
+      "link": "https://replicateguide.blogspot.com/p/boost-productivity-with-bearly-ais-time.html"
+    },
+	{
+      "id": 13,
+      "name_category": "Information",
+      "title": "The Future of Writing and Learning",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "The Future of Writing and Learning: Bearly AI's Role in Education",
+      "link": "https://replicateguide.blogspot.com/p/the-future-of-writing-and-learning.html"
+    },
+	{
+      "id": 14,
+      "name_category": "Information",
+      "title": "Unlocking Creativity",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Unlocking Creativity with Bearly AI's Writing Inspiration and Ideation",
+      "link": "https://replicateguide.blogspot.com/p/unlocking-creativity-with-bearly-ais.html"
+    },
+	{
+      "id": 15,
+      "name_category": "Information",
+      "title": "Privacy and Security",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSNQS_cYE89IaTsXSymf_gI-LsHNBw8MHQ8RHAFzdXy7qnESODwUGOdNlNhyXaMFo0UigcnBPGJQZYl8NFg2tbnKfjQ63CmNf9medTT3YzrBDuJV7JayVQcd6l9H_n0yMeOZVm7gGqseNS9JE-wI0Mi2IZ0G6HaQXgJnyMDS87pmAENUfjpOotFm4/w400-h400/icon.png",
+      "description": "Privacy and Security: Bearly AI's Commitment to User Data Protection",
+      "link": "https://replicateguide.blogspot.com/p/privacy-and-security-bearly-ais.html"
+    }
+  ]
+}

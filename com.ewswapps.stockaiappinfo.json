@@ -1,0 +1,197 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "3537927176496303",
+        "banner": "3537927176496303_3537932916495729",
+        "mrec": "3537927176496303_3537934189828935",
+        "inter": "3537927176496303_3537934043162283",
+        "native_ad": "3537927176496303_3537934333162254",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "big_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "Whats is  StockImg AI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "StockImg is an AI tool that makes it easier than ever to generate visually stunning posters, user interfaces, wallpapers, icons, book covers, and stock images",
+      "link": "https://replicateguide.blogspot.com/p/what-is-stockimg-ai.html"
+    },
+	 {
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Dashboard StockImg AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "When you log in to Stockimg AI, you will see a dashboard screen like this",
+      "link": "https://replicateguide.blogspot.com/p/dashboard-stockimg.html"
+    },
+	 {
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Generate Image/Design",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "When you select any category from the left side of the Dashboard",
+      "link": "https://replicateguide.blogspot.com/p/generate-imagedesign.html"
+    },
+	 {
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Prompt Guidance",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "The Promt Guidance parameter controls how closely Stable Diffusion will follow your prompt when rendering images",
+      "link": "https://replicateguide.blogspot.com/p/prompt-guidance-guidanca-scale.html"
+    },
+	 {
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Quality & Details (Steps)",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "The Steps parameter controls the number of noise removal iterations that Stable Diffusion will perform",
+      "link": "https://replicateguide.blogspot.com/p/quality-details-steps.html"
+    },
+	 {
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Seed Parameter ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "The seed parameter is responsible for generating the initial noise used to render the image",
+      "link": "https://replicateguide.blogspot.com/p/seed-parameter.html"
+    },
+	 {
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Unleashing the Power of StockImg AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "The world of visual design is experiencing a groundbreaking revolution, thanks to the emergence of advanced AI technologies such as StockImg AI",
+      "link": "https://replicateguide.blogspot.com/p/unleashing-power-of-stockimg-ai.html"
+    },
+	 {
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Elevate Your Designs with StockImg AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "Gone are the days of struggling to create visually captivating designs, thanks to StockImg AI",
+      "link": "https://replicateguide.blogspot.com/p/elevate-your-designs-with-stockimg-ai.html"
+    },
+	 {
+      "id": 9,
+      "name_category": "Guide",
+      "title": "How StockImg AI Transforms the Way We Generate Visuals",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "StockImg AI is revolutionizing the creative process by fundamentally transforming the way visuals are generated",
+      "link": "https://replicateguide.blogspot.com/p/how-stockimg-ai-transforms-way-we.html"
+    },
+	 {
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Enhancing Design Workflows with StockImg AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "Designing visually appealing content has never been easier, thanks to StockImg AI",
+      "link": "https://replicateguide.blogspot.com/p/effortless-visual-communication.html"
+    },
+	 {
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Accelerate Your Design Workflow with StockImg AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "StockImg AI is not just a tool for creating stunning visuals; it's also a catalyst for accelerating the design workflow",
+      "link": "https://replicateguide.blogspot.com/p/accelerate-your-design-workflow-with.html"
+    },
+	 {
+      "id": 12,
+      "name_category": "Guide",
+      "title": "Exploring the Capabilities of StockImg AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "With StockImg AI, the creative process is accelerated, allowing designers to bring their ideas to life in a matter of minutes",
+      "link": "https://replicateguide.blogspot.com/p/exploring-capabilities-of-stockimg-ai.html"
+    },
+	 {
+      "id": 13,
+      "name_category": "Guide",
+      "title": "How StockImg AI is Reshaping the Industry",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "The integration of AI technology in design processes is reshaping the industry, and StockImg AI is at the forefront of this transformation",
+      "link": "https://replicateguide.blogspot.com/p/how-stockimg-ai-is-reshaping-industry.html"
+    },
+	 {
+      "id": 14,
+      "name_category": "Guide",
+      "title": "StockImg AI and Its Impact on Marketing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "In the world of marketing, visuals play a crucial role in capturing attention and conveying messages effectively",
+      "link": "https://replicateguide.blogspot.com/p/stockimg-ai-and-its-impact-on-marketing.html"
+    },
+	{
+      "id": 15,
+      "name_category": "Guide",
+      "title": "Designing Made Easy",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "Designing no longer needs to be a complex and time-consuming process, thanks to StockImg AI",
+      "link": "https://replicateguide.blogspot.com/p/designing-made-easy.html"
+    },
+	{
+      "id": 16,
+      "name_category": "Guide",
+      "title": "How StockImg AI Empowers Creatives of All Levels",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZm7CpA0snjemzs8QXPHcYnkGYVtFwox1O9YI0q8y8Ku6727Xy7p8KPPNRBhJRVf0mKTI1_Gop3w4Dl06uYeVJM0okUVgF_EI2H-ruC-l2x9Ua37LdxWt3nlm00zEQTsWxQcjGuQOo2HeeqO8Kr9fyiyEhGXmGdlwv7gGesuZawR3o5puxa76YoXev/w400-h400/icon.png",
+      "description": "StockImg AI is democratizing design by making high-quality visuals accessible to creatives of all levels",
+      "link": "https://replicateguide.blogspot.com/p/how-stockimg-ai-empowers-creatives-of.html"
+    }
+  ]
+}

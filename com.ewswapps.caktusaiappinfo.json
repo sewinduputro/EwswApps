@@ -1,0 +1,141 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "iklanoff",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "big_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is Caktus.ai?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi82xN4lwf8P_K5--Lgh9-OepHzzssIa3tt8oTfRAyQ3HGT0Pz691a1IRoaLIz3YL9igKoT805AnCZjeZLdF43znMKUMa1w6iBjoBQa_HVFxuRwjfABXgjcZg48Zd3sc0ZtprKwKyHVk70GqpFTGyN9cp8prdAeve2DdVeOwcB9bMobBGPKthUxlD60/w400-h400/icon.png",
+      "description": "caktus.ai is an all-in-one online tool that uses advanced AI technology to streamline various aspects of your life, from education and language learning to code and career development.",
+      "link": "https://replicateguide.blogspot.com/p/what-is-caktusai.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Features of Caktus.ai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi82xN4lwf8P_K5--Lgh9-OepHzzssIa3tt8oTfRAyQ3HGT0Pz691a1IRoaLIz3YL9igKoT805AnCZjeZLdF43znMKUMa1w6iBjoBQa_HVFxuRwjfABXgjcZg48Zd3sc0ZtprKwKyHVk70GqpFTGyN9cp8prdAeve2DdVeOwcB9bMobBGPKthUxlD60/w400-h400/icon.png",
+      "description": "caktus.ai is an all-in-one AI-powered tool that offers a wide range of features to help you streamline your workflow and simplify your life.",
+      "link": "https://replicateguide.blogspot.com/p/features-of-caktusai.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Getting Started with Caktus AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi82xN4lwf8P_K5--Lgh9-OepHzzssIa3tt8oTfRAyQ3HGT0Pz691a1IRoaLIz3YL9igKoT805AnCZjeZLdF43znMKUMa1w6iBjoBQa_HVFxuRwjfABXgjcZg48Zd3sc0ZtprKwKyHVk70GqpFTGyN9cp8prdAeve2DdVeOwcB9bMobBGPKthUxlD60/w400-h400/icon.png",
+      "description": "Getting started with Caktus is easy",
+      "link": "https://replicateguide.blogspot.com/p/getting-started-with-caktus-ai.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Pros and Cons",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi82xN4lwf8P_K5--Lgh9-OepHzzssIa3tt8oTfRAyQ3HGT0Pz691a1IRoaLIz3YL9igKoT805AnCZjeZLdF43znMKUMa1w6iBjoBQa_HVFxuRwjfABXgjcZg48Zd3sc0ZtprKwKyHVk70GqpFTGyN9cp8prdAeve2DdVeOwcB9bMobBGPKthUxlD60/w400-h400/icon.png",
+      "description": "As with any tool or service, caktus.ai has its share of pros and cons to consider before diving in",
+      "link": "https://replicateguide.blogspot.com/p/pros-and-cons.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Who Is Caktus AI Best For?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi82xN4lwf8P_K5--Lgh9-OepHzzssIa3tt8oTfRAyQ3HGT0Pz691a1IRoaLIz3YL9igKoT805AnCZjeZLdF43znMKUMa1w6iBjoBQa_HVFxuRwjfABXgjcZg48Zd3sc0ZtprKwKyHVk70GqpFTGyN9cp8prdAeve2DdVeOwcB9bMobBGPKthUxlD60/w400-h400/icon.png",
+      "description": "This tool writes essays, solves equations, and even writes some code—a perfect tool for a student of any kind",
+      "link": "https://replicateguide.blogspot.com/p/who-is-caktus-ai-best-for.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Pricing for caktus.ai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi82xN4lwf8P_K5--Lgh9-OepHzzssIa3tt8oTfRAyQ3HGT0Pz691a1IRoaLIz3YL9igKoT805AnCZjeZLdF43znMKUMa1w6iBjoBQa_HVFxuRwjfABXgjcZg48Zd3sc0ZtprKwKyHVk70GqpFTGyN9cp8prdAeve2DdVeOwcB9bMobBGPKthUxlD60/w400-h400/icon.png",
+      "description": "Caktus.ai offers two pricing plans for users to choose from a monthly plan and an annual plan",
+      "link": "https://replicateguide.blogspot.com/p/pricing-for-caktusai.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Is caktus.ai Worth It?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi82xN4lwf8P_K5--Lgh9-OepHzzssIa3tt8oTfRAyQ3HGT0Pz691a1IRoaLIz3YL9igKoT805AnCZjeZLdF43znMKUMa1w6iBjoBQa_HVFxuRwjfABXgjcZg48Zd3sc0ZtprKwKyHVk70GqpFTGyN9cp8prdAeve2DdVeOwcB9bMobBGPKthUxlD60/w400-h400/icon.png",
+      "description": "caktus.ai is a powerful and versatile tool that offers many features to help students, job seekers, and anyone looking to improve their productivity and learning",
+      "link": "https://replicateguide.blogspot.com/p/is-caktusai-worth-it.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "FAQ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi82xN4lwf8P_K5--Lgh9-OepHzzssIa3tt8oTfRAyQ3HGT0Pz691a1IRoaLIz3YL9igKoT805AnCZjeZLdF43znMKUMa1w6iBjoBQa_HVFxuRwjfABXgjcZg48Zd3sc0ZtprKwKyHVk70GqpFTGyN9cp8prdAeve2DdVeOwcB9bMobBGPKthUxlD60/w400-h400/icon.png",
+      "description": "frequently asked questions Caktus AI",
+      "link": "https://replicateguide.blogspot.com/p/faq_5.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Final Verdict",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi82xN4lwf8P_K5--Lgh9-OepHzzssIa3tt8oTfRAyQ3HGT0Pz691a1IRoaLIz3YL9igKoT805AnCZjeZLdF43znMKUMa1w6iBjoBQa_HVFxuRwjfABXgjcZg48Zd3sc0ZtprKwKyHVk70GqpFTGyN9cp8prdAeve2DdVeOwcB9bMobBGPKthUxlD60/w400-h400/icon.png",
+      "description": "Caktus AI is an impressive AI-powered writing assistant.",
+      "link": "https://replicateguide.blogspot.com/p/final-verdict.html"
+    }
+  ]
+}

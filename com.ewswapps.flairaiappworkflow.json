@@ -1,0 +1,198 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "off",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-4741150800258294~1680445731",
+        "banner": "ca-app-pub-4741150800258294/6490753436",
+        "mrec": "off",
+        "inter": "ca-app-pub-4741150800258294/4961231106",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "Introduction to Flair AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Flair AI is an artificial intelligence design tool for branded content that offers an efficient and innovative way to generate great product photos for your advertisements or other content",
+      "link": "https://replicateguide.blogspot.com/p/introduction-to-flair-ai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Overview of Flair AI and its features",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Flair AI is a powerful design tool that uses artificial intelligence to create high-quality product photos for your branded content. With Flair AI",
+      "link": "https://replicateguide.blogspot.com/p/overview-of-flair-ai-and-its-features.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Guide",
+      "title": "How Flair AI Works",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Flair AI is a powerful AI design tool for branded content that can help you generate great product photos for your advertisements or other content",
+      "link": "https://replicateguide.blogspot.com/p/how-flair-ai-works.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Flair AI‘s AI Design Features",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Branded Design Generation, Automatic Background Removal, Realistic Drop Shadows and Reflections",
+      "link": "https://replicateguide.blogspot.com/p/flair-ais-ai-design-features.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Branded Design Generation and Customization",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Flair AI’s AI design tool allows businesses to generate high-quality branded content quickly and easily",
+      "link": "https://replicateguide.blogspot.com/p/branded-design-generation-and.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Automatic Background Removal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Flair AI’s automatic background removal feature simplifies the process of removing backgrounds from product photos",
+      "link": "https://replicateguide.blogspot.com/p/automatic-background-removal.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Realistic Drop Shadows and Reflections",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Another useful feature of Flair AI’s AI design tool is the realistic drop shadows and reflections it can generate",
+      "link": "https://replicateguide.blogspot.com/p/realistic-drop-shadows-and-reflections.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Benefits of Flair AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "As digital marketing continues to become more competitive, businesses are constantly searching for ways to create high-quality, eye-catching content for their advertisements",
+      "link": "https://replicateguide.blogspot.com/p/benefits-of-flair-ai.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Streamlined Content Creation Process",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Flair AI’s design tool is an all-in-one solution that automates the content creation process",
+      "link": "https://replicateguide.blogspot.com/p/streamlined-content-creation-process.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Guide",
+      "title": "High-Quality Branded Content",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "One of the most significant advantages of Flair AI is the quality of the branded content it generates",
+      "link": "https://replicateguide.blogspot.com/p/high-quality-branded-content.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Cost-Effective Solution for Design Needs",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Hiring a professional designer to create branded content can be expensive, especially for small businesses",
+      "link": "https://replicateguide.blogspot.com/p/cost-effective-solution-for-design-needs.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Guide",
+      "title": "Overview of Flair AI’s paid plans",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Flair AI is a powerful design tool for branded content that allows businesses to streamline their content creation process and produce high-quality branded content for advertisements and other marketing efforts",
+      "link": "https://replicateguide.blogspot.com/p/overview-of-flair-ais-paid-plans.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Guide",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Flair AI is a cutting-edge design tool that uses artificial intelligence to streamline the content creation process for branded content",
+      "link": "https://replicateguide.blogspot.com/p/conclusion.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Guide",
+      "title": "Frequently Asked Questions",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Everything You Need to Know About Flair AI",
+      "link": "https://replicateguide.blogspot.com/p/frequently-asked-questions_15.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Guide",
+      "title": "How to Use Flair AI Design Tool?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Flair AI Design Tool is a user-friendly tool that offers a simple and intuitive interface, making it easy for designers of all skill levels to use",
+      "link": "https://replicateguide.blogspot.com/p/how-to-use-flair-ai-design-tool.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Guide",
+      "title": "Examples of Flair AI Design Tool in Action",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_fQsc06hN3Wlh2jIsXZpn3Rwh8AKPcxcv9WUAF9B-Bt0nwlJ07NxFlT0gkD1FU42qhjfQEbJElelMsc4V9RrNEIoKTjvSc0bPkB8oae7K25v1C9X8HjbT4EC_pvgzyPEw0fPQ21IlhRgYLTkgVf6AiF19pDcI9IsSgL_-Ecka-IJaWfcglbzP6BM/s320/icon.png",
+      "description": "Flair AI Design Tool has been used by many designers and GPT Development Services teams to create innovative and effective designs across a variety of industries",
+      "link": "https://replicateguide.blogspot.com/p/examples-of-flair-ai-design-tool-in.html"
+    }
+  ]
+}

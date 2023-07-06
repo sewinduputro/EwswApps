@@ -1,0 +1,149 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "iklanoff",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is ChatFAI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX-2EzhGLXaaIV6fDfNaO6-x_sFWnc7yxfHQX3v_owXIRWkwORyQbX3RUyDmNnsyRLGmqJfLWjYzA42jC42tFUXHEMHDmZIYNB9-85Yimxx3VURRlD821Kagh0H52Y97tSAZw0kmRMktr4gSPq65bRt_JV3UnVwiM9xM-7yz1i0pveeoNKgNRp9NQ/w400-h400/icon.png",
+      "description": "ChatFAI is an AI-powered chatbot platform that allows users to engage in conversations with their favorite characters",
+      "link": "https://replicateguide.blogspot.com/p/what-is-chatfai.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Features Of ChatFAI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX-2EzhGLXaaIV6fDfNaO6-x_sFWnc7yxfHQX3v_owXIRWkwORyQbX3RUyDmNnsyRLGmqJfLWjYzA42jC42tFUXHEMHDmZIYNB9-85Yimxx3VURRlD821Kagh0H52Y97tSAZw0kmRMktr4gSPq65bRt_JV3UnVwiM9xM-7yz1i0pveeoNKgNRp9NQ/w400-h400/icon.png",
+      "description": "You can create conversations and customize interactions with your favorite AI Characters",
+      "link": "https://replicateguide.blogspot.com/p/features-of-chatfai.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Limitation Of ChatFAI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX-2EzhGLXaaIV6fDfNaO6-x_sFWnc7yxfHQX3v_owXIRWkwORyQbX3RUyDmNnsyRLGmqJfLWjYzA42jC42tFUXHEMHDmZIYNB9-85Yimxx3VURRlD821Kagh0H52Y97tSAZw0kmRMktr4gSPq65bRt_JV3UnVwiM9xM-7yz1i0pveeoNKgNRp9NQ/w400-h400/icon.png",
+      "description": "ChatFAI uses machine learning algorithms to generate realistic responses",
+      "link": "https://replicateguide.blogspot.com/p/limitation-of-chatfai.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Does ChatFAI Allow NSFW?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX-2EzhGLXaaIV6fDfNaO6-x_sFWnc7yxfHQX3v_owXIRWkwORyQbX3RUyDmNnsyRLGmqJfLWjYzA42jC42tFUXHEMHDmZIYNB9-85Yimxx3VURRlD821Kagh0H52Y97tSAZw0kmRMktr4gSPq65bRt_JV3UnVwiM9xM-7yz1i0pveeoNKgNRp9NQ/w400-h400/icon.png",
+      "description": "ChatFAI is a popular alternative to Character AI without an NSFW filter.",
+      "link": "https://replicateguide.blogspot.com/p/does-chatfai-allow-nsfw.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "How To Use ChatFAI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX-2EzhGLXaaIV6fDfNaO6-x_sFWnc7yxfHQX3v_owXIRWkwORyQbX3RUyDmNnsyRLGmqJfLWjYzA42jC42tFUXHEMHDmZIYNB9-85Yimxx3VURRlD821Kagh0H52Y97tSAZw0kmRMktr4gSPq65bRt_JV3UnVwiM9xM-7yz1i0pveeoNKgNRp9NQ/w400-h400/icon.png",
+      "description": "You can use ChatFAI by signing up on their website and choosing the Character to chat with.",
+      "link": "https://replicateguide.blogspot.com/p/how-to-use-chatfai.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Bringing Characters to Life: ChatFAI's Advanced Chatbot Technology",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX-2EzhGLXaaIV6fDfNaO6-x_sFWnc7yxfHQX3v_owXIRWkwORyQbX3RUyDmNnsyRLGmqJfLWjYzA42jC42tFUXHEMHDmZIYNB9-85Yimxx3VURRlD821Kagh0H52Y97tSAZw0kmRMktr4gSPq65bRt_JV3UnVwiM9xM-7yz1i0pveeoNKgNRp9NQ/w400-h400/icon.png",
+      "description": "ChatFAI is revolutionizing the way we engage with our favorite characters by bringing them to life through advanced chatbot technology",
+      "link": "https://replicateguide.blogspot.com/p/bringing-characters-to-life-chatfais.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Understanding Character Psychology with ChatFAI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX-2EzhGLXaaIV6fDfNaO6-x_sFWnc7yxfHQX3v_owXIRWkwORyQbX3RUyDmNnsyRLGmqJfLWjYzA42jC42tFUXHEMHDmZIYNB9-85Yimxx3VURRlD821Kagh0H52Y97tSAZw0kmRMktr4gSPq65bRt_JV3UnVwiM9xM-7yz1i0pveeoNKgNRp9NQ/w400-h400/icon.png",
+      "description": "ChatFAI goes beyond simple interactions with characters by offering a deep dive into their psychology",
+      "link": "https://replicateguide.blogspot.com/p/understanding-character-psychology-with.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Creating Custom Character Chatbots with ChatFAI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX-2EzhGLXaaIV6fDfNaO6-x_sFWnc7yxfHQX3v_owXIRWkwORyQbX3RUyDmNnsyRLGmqJfLWjYzA42jC42tFUXHEMHDmZIYNB9-85Yimxx3VURRlD821Kagh0H52Y97tSAZw0kmRMktr4gSPq65bRt_JV3UnVwiM9xM-7yz1i0pveeoNKgNRp9NQ/w400-h400/icon.png",
+      "description": "With ChatFAI, users have the exciting opportunity to create their own custom character chatbots.",
+      "link": "https://replicateguide.blogspot.com/p/creating-custom-character-chatbots-with.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Immersive Experiences with ChatFAI: Exploring Fictional Worlds",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX-2EzhGLXaaIV6fDfNaO6-x_sFWnc7yxfHQX3v_owXIRWkwORyQbX3RUyDmNnsyRLGmqJfLWjYzA42jC42tFUXHEMHDmZIYNB9-85Yimxx3VURRlD821Kagh0H52Y97tSAZw0kmRMktr4gSPq65bRt_JV3UnVwiM9xM-7yz1i0pveeoNKgNRp9NQ/w400-h400/icon.png",
+      "description": "ChatFAI offers users the opportunity to embark on immersive experiences by exploring fictional worlds through interactive conversations",
+      "link": "https://replicateguide.blogspot.com/p/immersive-experiences-with-chatfai.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "ChatFAI's Potential in Entertainment: Innovating Character Interactions",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX-2EzhGLXaaIV6fDfNaO6-x_sFWnc7yxfHQX3v_owXIRWkwORyQbX3RUyDmNnsyRLGmqJfLWjYzA42jC42tFUXHEMHDmZIYNB9-85Yimxx3VURRlD821Kagh0H52Y97tSAZw0kmRMktr4gSPq65bRt_JV3UnVwiM9xM-7yz1i0pveeoNKgNRp9NQ/w400-h400/icon.png",
+      "description": "ChatFAI represents a significant innovation in the entertainment industry, offering new possibilities for character interactions",
+      "link": "https://replicateguide.blogspot.com/p/chatfais-potential-in-entertainment.html"
+    }
+  ]
+}

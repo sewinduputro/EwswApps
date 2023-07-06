@@ -1,0 +1,171 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "min_time": 120,
+        "value": 100,
+
+        "appId_appKey_publisherId_gameId": "202249092772414",
+        "banner": "202249092772414_202287689435221",
+        "mrec": "off",
+        "inter": "202249092772414_202287749435215",
+        "native_ad": "202249092772414_202287942768529",
+        "open_ad": "off",
+        "splash_ad": false
+      },
+      {
+        "name": "admob",
+        "value": 10,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-4741150800258294~4488260250",
+        "banner": "ca-app-pub-4741150800258294/6842960854",
+        "mrec": "-",
+        "inter": "ca-app-pub-4741150800258294/4216797516",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is Survimo?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDnd0dL8yRTUJ4EsMMVKWtrd4ocnTd-Wli4jP5OF5rM-EWx1RmwzMRO-ieGY160-r9PcBe-yfSXk_EidAdN1lQc24lhzobDyvAr_VbVdVeTtxACRszC-kBH3CGHhENVElmw5e6VnHzfDSeiKP1CDrRlCIKgxvScdZByAgD2ntMV8Rc7SRl_rZOKBh/w400-h400/icon.png",
+      "description": "Survimo is an online survey platform that allows users to create, customize, and distribute surveys to collect feedback and opinions from their target audience.",
+      "link": "https://replicateguide.blogspot.com/p/what-is-survimo.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Is the survimo survey app legit or a scam?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDnd0dL8yRTUJ4EsMMVKWtrd4ocnTd-Wli4jP5OF5rM-EWx1RmwzMRO-ieGY160-r9PcBe-yfSXk_EidAdN1lQc24lhzobDyvAr_VbVdVeTtxACRszC-kBH3CGHhENVElmw5e6VnHzfDSeiKP1CDrRlCIKgxvScdZByAgD2ntMV8Rc7SRl_rZOKBh/w400-h400/icon.png",
+      "description": "Survimo is a legit platform",
+      "link": "https://replicateguide.blogspot.com/p/is-survimo-survey-app-legit-or-scam.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "How many surveys are available in a day?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDnd0dL8yRTUJ4EsMMVKWtrd4ocnTd-Wli4jP5OF5rM-EWx1RmwzMRO-ieGY160-r9PcBe-yfSXk_EidAdN1lQc24lhzobDyvAr_VbVdVeTtxACRszC-kBH3CGHhENVElmw5e6VnHzfDSeiKP1CDrRlCIKgxvScdZByAgD2ntMV8Rc7SRl_rZOKBh/w400-h400/icon.png",
+      "description": "That is to say when you regularly take part in surveys, you are increasing your chances of getting more",
+      "link": "https://replicateguide.blogspot.com/p/how-many-surveys-are-available-in-day.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "How much can you make with the Survimo survey app?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDnd0dL8yRTUJ4EsMMVKWtrd4ocnTd-Wli4jP5OF5rM-EWx1RmwzMRO-ieGY160-r9PcBe-yfSXk_EidAdN1lQc24lhzobDyvAr_VbVdVeTtxACRszC-kBH3CGHhENVElmw5e6VnHzfDSeiKP1CDrRlCIKgxvScdZByAgD2ntMV8Rc7SRl_rZOKBh/w400-h400/icon.png",
+      "description": "According to the platform, you can make anywhere around $3.5 per survey",
+      "link": "https://replicateguide.blogspot.com/p/how-much-can-you-make-with-survimo.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Methods of payment in survimo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDnd0dL8yRTUJ4EsMMVKWtrd4ocnTd-Wli4jP5OF5rM-EWx1RmwzMRO-ieGY160-r9PcBe-yfSXk_EidAdN1lQc24lhzobDyvAr_VbVdVeTtxACRszC-kBH3CGHhENVElmw5e6VnHzfDSeiKP1CDrRlCIKgxvScdZByAgD2ntMV8Rc7SRl_rZOKBh/w400-h400/icon.png",
+      "description": "The only method of payment available on the site, for now, is Paypal",
+      "link": "https://replicateguide.blogspot.com/p/methods-of-payment-in-survimo.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Who can use the site?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDnd0dL8yRTUJ4EsMMVKWtrd4ocnTd-Wli4jP5OF5rM-EWx1RmwzMRO-ieGY160-r9PcBe-yfSXk_EidAdN1lQc24lhzobDyvAr_VbVdVeTtxACRszC-kBH3CGHhENVElmw5e6VnHzfDSeiKP1CDrRlCIKgxvScdZByAgD2ntMV8Rc7SRl_rZOKBh/w400-h400/icon.png",
+      "description": "As long as you are 18 years and above, you are free to make use of the site",
+      "link": "https://replicateguide.blogspot.com/p/who-can-use-site.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "How much do they charge for registration?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDnd0dL8yRTUJ4EsMMVKWtrd4ocnTd-Wli4jP5OF5rM-EWx1RmwzMRO-ieGY160-r9PcBe-yfSXk_EidAdN1lQc24lhzobDyvAr_VbVdVeTtxACRszC-kBH3CGHhENVElmw5e6VnHzfDSeiKP1CDrRlCIKgxvScdZByAgD2ntMV8Rc7SRl_rZOKBh/w400-h400/icon.png",
+      "description": "Having an account with this survey site is completely free",
+      "link": "https://replicateguide.blogspot.com/p/how-much-do-they-charge-for-registration.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "How to sign up in survimo survey site",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDnd0dL8yRTUJ4EsMMVKWtrd4ocnTd-Wli4jP5OF5rM-EWx1RmwzMRO-ieGY160-r9PcBe-yfSXk_EidAdN1lQc24lhzobDyvAr_VbVdVeTtxACRszC-kBH3CGHhENVElmw5e6VnHzfDSeiKP1CDrRlCIKgxvScdZByAgD2ntMV8Rc7SRl_rZOKBh/w400-h400/icon.png",
+      "description": "Creating an account with this survey site is very simple",
+      "link": "https://replicateguide.blogspot.com/p/how-to-sign-up-in-survimo-survey-site.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "How to Earn Money on Survimo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDnd0dL8yRTUJ4EsMMVKWtrd4ocnTd-Wli4jP5OF5rM-EWx1RmwzMRO-ieGY160-r9PcBe-yfSXk_EidAdN1lQc24lhzobDyvAr_VbVdVeTtxACRszC-kBH3CGHhENVElmw5e6VnHzfDSeiKP1CDrRlCIKgxvScdZByAgD2ntMV8Rc7SRl_rZOKBh/w400-h400/icon.png",
+      "description": "If you log in to the site, you will see a list of all the surveys that are available to you as soon as you log in",
+      "link": "https://replicateguide.blogspot.com/p/how-to-earn-money-on-survimo.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "How to Refer and earn on Survimo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDnd0dL8yRTUJ4EsMMVKWtrd4ocnTd-Wli4jP5OF5rM-EWx1RmwzMRO-ieGY160-r9PcBe-yfSXk_EidAdN1lQc24lhzobDyvAr_VbVdVeTtxACRszC-kBH3CGHhENVElmw5e6VnHzfDSeiKP1CDrRlCIKgxvScdZByAgD2ntMV8Rc7SRl_rZOKBh/w400-h400/icon.png",
+      "description": "Your affiliate link can be used to invite new members to the platform and so that they can earn a real money as welcome bonus, and also you too earn real money alongside",
+      "link": "https://replicateguide.blogspot.com/p/how-to-refer-and-earn-on-survimo.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Survimo Withdrawal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDnd0dL8yRTUJ4EsMMVKWtrd4ocnTd-Wli4jP5OF5rM-EWx1RmwzMRO-ieGY160-r9PcBe-yfSXk_EidAdN1lQc24lhzobDyvAr_VbVdVeTtxACRszC-kBH3CGHhENVElmw5e6VnHzfDSeiKP1CDrRlCIKgxvScdZByAgD2ntMV8Rc7SRl_rZOKBh/w400-h400/icon.png",
+      "description": "Withdrawals on Survimo would be processed within 24/48 hours of time, and it would be sent to your local bank account after filling in the necessary details",
+      "link": "https://replicateguide.blogspot.com/p/survimo-withdrawal.html"
+    }
+  ]
+}

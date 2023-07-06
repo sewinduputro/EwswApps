@@ -1,0 +1,179 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "min_time": 120,
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "2344778025730801",
+        "banner": "2344778025730801_2344778605730743",
+        "mrec": "off",
+        "inter": "2344778025730801_2344778665730737",
+        "native_ad": "2344778025730801_2344778739064063",
+        "open_ad": "off",
+        "splash_ad": false
+      },
+      {
+        "name": "admob",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-4741150800258294~7183308993",
+        "banner": "ca-app-pub-4741150800258294/2445987632",
+        "mrec": "-",
+        "inter": "ca-app-pub-4741150800258294/1919374020",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is Vidyo AI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "Vidyo.ai is an AI based content repurposing platform that provides an easy and efficient way to convert long form podcasts and videos into shorter",
+      "link": "https://replicateguide.blogspot.com/p/what-is-vidyo-ai.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Features to Boost Your Video Content",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "One of the things that has attracted me personally is the number of features that this tool offers",
+      "link": "https://replicateguide.blogspot.com/p/features-to-boost-your-video-content.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "How It Works",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "Vidyo.ai leverages the power of artificial intelligence to select, edit automatically, and caption the top moments from your videos",
+      "link": "https://replicateguide.blogspot.com/p/how-it-works.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Who Can Benefit from Vidyo ai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "The next but very important question is, who can benefit from this tool?",
+      "link": "https://replicateguide.blogspot.com/p/start-for-free.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Start for Free",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "Another positive take from this tool is its free credits",
+      "link": "https://replicateguide.blogspot.com/p/start-for-free.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Vidyo.ai Pricing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "Interested in knowing about Vidyo.ai pricing?",
+      "link": "https://replicateguide.blogspot.com/p/vidyoai-pricing.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "The Advantages of Content Repurposing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "Well, content repurposing is a game-changer for brands and businesses",
+      "link": "https://replicateguide.blogspot.com/p/the-advantages-of-content-repurposing.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Customization Options",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "Customization makes everything adorable",
+      "link": "https://replicateguide.blogspot.com/p/customization-options.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "CutMagic",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "Vidyo.ai’s CutMagic feature allows you to easily trim and edit your videos to create the perfect final product",
+      "link": "https://replicateguide.blogspot.com/p/unleash-power-of-cutmagic.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Limited Features",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "While Vidyo.ai offers many useful features, some users may find that it needs some advanced features offered by other video editing software",
+      "link": "https://replicateguide.blogspot.com/p/limited-features.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "To summarize, Vidyo ai is the ultimate solution for content creators and teams seeking to supercharge their video content and grow their online presence",
+      "link": "https://replicateguide.blogspot.com/p/conclusion_19.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Guide",
+      "title": "Frequently Asked Questions",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc1avCl_gZs3dWfbLW7dj1BnolRZlYKQ2owo1rJ_fq88gppSr0Y6deqLZmyfne7FZXaITHkGwiYfmdXsFe68iykGkOJj1SEzKHw2brHwBLTM-8uiUuWm-C0FOUNGRF_fKtksrGv7j_rkBjJwudFfeOxR7vbdYQuQIf70YTtgvM-TdKFhn_ajG5cfnuqk/w400-h400/icon.png",
+      "description": "Here are answers to some frequently asked questions",
+      "link": "https://replicateguide.blogspot.com/p/frequently-asked-questions_19.html"
+    }
+  ]
+}

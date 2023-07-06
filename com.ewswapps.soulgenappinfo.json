@@ -1,0 +1,183 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "min_time": 120,
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "944873270152865",
+        "banner": "944873270152865_944876550152537",
+        "mrec": "off",
+        "inter": "944873270152865_944876616819197",
+        "native_ad": "944873270152865_944876800152512",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Informatiion",
+      "title": "What is SoulGen AI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "Soulgen is an AI-driven female character generator that revolutionizes the way we create and visualize virtual characters",
+      "link": "https://replicateguide.blogspot.com/p/what-is-soulgen-ai.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Informatiion",
+      "title": "Harnessing AI to Create Your Ideal Soulmate",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "Soulgen’s unique application of AI has made it possible for users to create the image of their ideal soulmate",
+      "link": "https://replicateguide.blogspot.com/p/harnessing-ai-to-create-your-ideal.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Informatiion",
+      "title": "Generating Stunning Art from Text",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "SoulGen AI is revolutionizing the way we create art by harnessing the power of artificial intelligence",
+      "link": "https://replicateguide.blogspot.com/p/unleashing-creativity-with-soulgen-ai.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Informatiion",
+      "title": "The Magic of SoulGen AI in Image Generation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "Have you ever wanted to see your words come to life as vibrant visuals? With SoulGen AI, that dream is now a reality",
+      "link": "https://replicateguide.blogspot.com/p/from-words-to-visuals-magic-of-soulgen.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Informatiion",
+      "title": "Redefining Art Creation with AI-Generated Images",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "Artists and creators are constantly seeking new ways to push the boundaries of their creativity",
+      "link": "https://replicateguide.blogspot.com/p/soulgen-ai-redefining-art-creation-with.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Informatiion",
+      "title": "Personalize Your Soulmates",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "Anime has captured the hearts of millions with its distinctive art style and captivating characters",
+      "link": "https://replicateguide.blogspot.com/p/creating-unique-anime-characters-with.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Informatiion",
+      "title": "Empowering Artists with AI-Generated Images",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "Artists have always relied on their creativity and skills to bring their artistic visions to life",
+      "link": "https://replicateguide.blogspot.com/p/soulgen-ai-empowering-artists-with-ai.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Informatiion",
+      "title": "The Future of Art: Exploring the Potential of SoulGen AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "The world of art is constantly evolving, driven by advancements in technology and innovation",
+      "link": "https://replicateguide.blogspot.com/p/the-future-of-art-exploring-potential.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Informatiion",
+      "title": "Breaking Barriers with SoulGen AI: Making Art Accessible to All",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "Art has long been a powerful medium of expression, allowing individuals to convey emotions, thoughts, and ideas",
+      "link": "https://replicateguide.blogspot.com/p/breaking-barriers-with-soulgen-ai.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Informatiion",
+      "title": "Deep Dive into Image Generation Algorithms",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "At the heart of SoulGen AI's impressive capabilities lies a complex set of image generation algorithms",
+      "link": "https://replicateguide.blogspot.com/p/behind-soulgen-ai-deep-dive-into-image.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Informatiion",
+      "title": "Understanding SoulGen AI's Implications",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "As SoulGen AI continues to gain popularity, questions surrounding copyright and intellectual property rights in AI-generated art arise.",
+      "link": "https://replicateguide.blogspot.com/p/ai-generated-art-and-copyright.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Informatiion",
+      "title": "SoulGen AI and Storytelling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "Storytelling is a fundamental aspect of human culture and expression. It allows us to share experiences, evoke emotions, and explore the depths of imagination",
+      "link": "https://replicateguide.blogspot.com/p/unleashing-imagination-soulgen-ai-and.html"
+    },
+	{
+      "id": 13,
+      "name_category": "Informatiion",
+      "title": "Creating Unique Characters and Worlds",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "Game development is a multidisciplinary art form that combines storytelling, visuals, and interactive experiences",
+      "link": "https://replicateguide.blogspot.com/p/the-role-of-soulgen-ai-in-game.html"
+    },
+	{
+      "id": 14,
+      "name_category": "Informatiion",
+      "title": " Ethical Considerations in SoulGen AI and AI-Generated Art",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNbJ24ORlrRHKMclO2eTfEXjdE1Oy8LkW4-_N0a8xoqR3QmYQfZ2Aitc8ufwxySVbdByWQw90LELb0nIW3aOWraR-1YkvDdtO7PwFtm6todtDAI4leRdJWKbRrBOgTEXlM6NT-IN1tWs0tptOmdXvvZS7EEGL0HFZxkqwyAohf-ET1SLMnh1TX7i_/w400-h400/icon.png",
+      "description": "As the capabilities of SoulGen AI and AI-generated art continue to expand, it is crucial to address the ethical considerations that arise in this evolving field",
+      "link": "https://replicateguide.blogspot.com/p/exploring-boundaries-ethical.html"
+    }
+  ]
+}

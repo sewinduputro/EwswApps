@@ -1,0 +1,163 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 100,
+        "min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "216703067952506",
+        "banner": "216703067952506_216705747952238",
+        "mrec": "off",
+        "inter": "216703067952506_216705804618899",
+        "native_ad": "216703067952506_216705964618883",
+        "open_ad": "-",
+        "splash_ad": false
+      },
+      {
+        "name": "admob",
+        "value": 10,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-4741150800258294~9916481218",
+        "banner": "ca-app-pub-4741150800258294/4810923370",
+        "mrec": "-",
+        "inter": "ca-app-pub-4741150800258294/5960353519",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is D-ID Creative Reality Studio?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzYl2nPIrYHFfeqlKlfz1ENvZfvfKhCmUDCQ78xzXbBfuIpUHvWRJJK4_X48LceL2Em3NEOU2TPdPOJzYLop6po7nyDV7sBhWX_9ZTGCRCrkljHoRx3rCUAB6wsHibv5D_VXxfDXPTsjp6dk3DIHfO0fLtb5APUCh7FSMZb8Ma3MZZSqbOiHc6J_zSEOU/w400-h400/icon.png",
+      "description": "D-ID, or De-Identification, is a groundbreaking AI software that specializes in animating static images, turning them into lifelike speaking head videos",
+      "link": "https://replicateguide.blogspot.com/p/what-is-d-id-creative-reality-studio.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "How does D-ID Creative Reality Studio Work?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzYl2nPIrYHFfeqlKlfz1ENvZfvfKhCmUDCQ78xzXbBfuIpUHvWRJJK4_X48LceL2Em3NEOU2TPdPOJzYLop6po7nyDV7sBhWX_9ZTGCRCrkljHoRx3rCUAB6wsHibv5D_VXxfDXPTsjp6dk3DIHfO0fLtb5APUCh7FSMZb8Ma3MZZSqbOiHc6J_zSEOU/w400-h400/icon.png",
+      "description": "The magic of D-ID lies in its sophisticated blend of deep learning and artificial intelligence",
+      "link": "https://replicateguide.blogspot.com/p/how-does-d-id-creative-reality-studio.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Key features of D-ID Creative Reality Studio",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzYl2nPIrYHFfeqlKlfz1ENvZfvfKhCmUDCQ78xzXbBfuIpUHvWRJJK4_X48LceL2Em3NEOU2TPdPOJzYLop6po7nyDV7sBhWX_9ZTGCRCrkljHoRx3rCUAB6wsHibv5D_VXxfDXPTsjp6dk3DIHfO0fLtb5APUCh7FSMZb8Ma3MZZSqbOiHc6J_zSEOU/w400-h400/icon.png",
+      "description": "D-ID is packed with features designed to turn the process of animating images into a straightforward and enjoyable experience",
+      "link": "https://replicateguide.blogspot.com/p/key-features-of-d-id-creative-reality.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Hands-On with D-ID Creative Reality Studio",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzYl2nPIrYHFfeqlKlfz1ENvZfvfKhCmUDCQ78xzXbBfuIpUHvWRJJK4_X48LceL2Em3NEOU2TPdPOJzYLop6po7nyDV7sBhWX_9ZTGCRCrkljHoRx3rCUAB6wsHibv5D_VXxfDXPTsjp6dk3DIHfO0fLtb5APUCh7FSMZb8Ma3MZZSqbOiHc6J_zSEOU/w400-h400/icon.png",
+      "description": "Getting my hands on D-ID for the first time was an experience filled with anticipation and excitement",
+      "link": "https://replicateguide.blogspot.com/p/hands-on-with-d-id-creative-reality.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Performance and Quality",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzYl2nPIrYHFfeqlKlfz1ENvZfvfKhCmUDCQ78xzXbBfuIpUHvWRJJK4_X48LceL2Em3NEOU2TPdPOJzYLop6po7nyDV7sBhWX_9ZTGCRCrkljHoRx3rCUAB6wsHibv5D_VXxfDXPTsjp6dk3DIHfO0fLtb5APUCh7FSMZb8Ma3MZZSqbOiHc6J_zSEOU/w400-h400/icon.png",
+      "description": "When considering the quality and performance of D-ID, it’s essential to look at the overall feedback and ratings from users",
+      "link": "https://replicateguide.blogspot.com/p/performance-and-quality.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Pros and Cons of D-ID",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzYl2nPIrYHFfeqlKlfz1ENvZfvfKhCmUDCQ78xzXbBfuIpUHvWRJJK4_X48LceL2Em3NEOU2TPdPOJzYLop6po7nyDV7sBhWX_9ZTGCRCrkljHoRx3rCUAB6wsHibv5D_VXxfDXPTsjp6dk3DIHfO0fLtb5APUCh7FSMZb8Ma3MZZSqbOiHc6J_zSEOU/w400-h400/icon.png",
+      "description": "Like any piece of software, D-ID has its strengths and weaknesses",
+      "link": "https://replicateguide.blogspot.com/p/pros-and-cons-of-d-id.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Pricing of D-ID",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzYl2nPIrYHFfeqlKlfz1ENvZfvfKhCmUDCQ78xzXbBfuIpUHvWRJJK4_X48LceL2Em3NEOU2TPdPOJzYLop6po7nyDV7sBhWX_9ZTGCRCrkljHoRx3rCUAB6wsHibv5D_VXxfDXPTsjp6dk3DIHfO0fLtb5APUCh7FSMZb8Ma3MZZSqbOiHc6J_zSEOU/w400-h400/icon.png",
+      "description": "D-ID offers four subscription plans to cater to different user needs, ranging from a free trial to advanced level offerings",
+      "link": "https://replicateguide.blogspot.com/p/pricing-of-d-id.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Alternative to D-ID",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzYl2nPIrYHFfeqlKlfz1ENvZfvfKhCmUDCQ78xzXbBfuIpUHvWRJJK4_X48LceL2Em3NEOU2TPdPOJzYLop6po7nyDV7sBhWX_9ZTGCRCrkljHoRx3rCUAB6wsHibv5D_VXxfDXPTsjp6dk3DIHfO0fLtb5APUCh7FSMZb8Ma3MZZSqbOiHc6J_zSEOU/w400-h400/icon.png",
+      "description": "n the arena of AI-powered talking head video generators, D-ID faces stiff competition from several noteworthy contenders",
+      "link": "https://replicateguide.blogspot.com/p/alternative-to-d-id.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Use Cases and Applications",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzYl2nPIrYHFfeqlKlfz1ENvZfvfKhCmUDCQ78xzXbBfuIpUHvWRJJK4_X48LceL2Em3NEOU2TPdPOJzYLop6po7nyDV7sBhWX_9ZTGCRCrkljHoRx3rCUAB6wsHibv5D_VXxfDXPTsjp6dk3DIHfO0fLtb5APUCh7FSMZb8Ma3MZZSqbOiHc6J_zSEOU/w400-h400/icon.png",
+      "description": "As a versatile AI tool, D-ID opens up a wide array of possibilities for use in various fields and applications",
+      "link": "https://replicateguide.blogspot.com/p/use-cases-and-applications.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzYl2nPIrYHFfeqlKlfz1ENvZfvfKhCmUDCQ78xzXbBfuIpUHvWRJJK4_X48LceL2Em3NEOU2TPdPOJzYLop6po7nyDV7sBhWX_9ZTGCRCrkljHoRx3rCUAB6wsHibv5D_VXxfDXPTsjp6dk3DIHfO0fLtb5APUCh7FSMZb8Ma3MZZSqbOiHc6J_zSEOU/w400-h400/icon.png",
+      "description": "D-ID is a powerful AI tool that can bring static images to life by creating speaking head videos",
+      "link": "https://replicateguide.blogspot.com/p/conclusion_21.html"
+    }
+  ]
+}
